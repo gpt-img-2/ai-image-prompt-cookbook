@@ -1,0 +1,2161 @@
+{
+  "name": "AI Image Prompt Cookbook",
+  "language": "zh",
+  "sourceSite": "https://gptimg2.art",
+  "generatedAt": "2026-05-15T05:39:03.722Z",
+  "license": "CC BY 4.0",
+  "total": 114,
+  "prompts": [
+    {
+      "id": "ai-nvzhuang-tishici-template-01",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-nvzhuang-tishici",
+      "title": "女装店对镜自拍",
+      "scenario": "女装店上新、直播预热视频、小红书穿搭图。",
+      "prompt": "生成一张 9:16 竖版女装店对镜自拍图，年轻模特穿着[服装款式]，服装颜色为[颜色]，面料为[面料]，清晰展示领口、袖型、腰线和下摆。场景是明亮干净的女装店，背景有衣架、落地镜、暖光灯带和同款穿搭模特。模特一手举手机挡脸，一手自然插兜，姿态松弛。真实手机视频截图质感，轻微动态模糊，服装细节清楚，不要随机品牌 logo、乱码文字或夸张滤镜。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+    },
+    {
+      "id": "ai-nvzhuang-tishici-template-02",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-nvzhuang-tishici",
+      "title": "韩系温柔穿搭",
+      "scenario": "小红书图文、女装店日常上新、氛围感主图。",
+      "prompt": "生成一张 9:16 韩系温柔女装穿搭图，模特穿着[上衣]搭配[下装]，整体颜色为低饱和[色系]。场景是米白墙面和浅木色地面，午后侧逆光，发丝有柔和金边，画面暖调干净。模特姿势自然，妆容清透，重点展示服装版型、面料纹理和搭配层次。不要过度磨皮，不要让身体比例失真，不要添加无关道具。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+    },
+    {
+      "id": "ai-nvzhuang-tishici-template-03",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-nvzhuang-tishici",
+      "title": "连衣裙电商主图",
+      "scenario": "淘宝、天猫、拼多多、独立站商品列表图。",
+      "prompt": "生成一张 4:5 女装电商主图，主体是一件[颜色][面料]连衣裙，由模特上身展示。模特正面或微侧身站立，裙长、腰线、领口、袖口和裙摆完整可见。背景为浅色棚拍环境，柔和布光，自然接触阴影，服装占画面中心。保持服装形状和细节准确，不要添加多余文字、假 logo、水印、手部遮挡或复杂背景。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+    },
+    {
+      "id": "ai-nvzhuang-tishici-template-04",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-nvzhuang-tishici",
+      "title": "通勤女装大片",
+      "scenario": "西装、衬衫、半裙、通勤系列视觉。",
+      "prompt": "生成一张 3:4 通勤女装商业摄影图，模特穿着[单品组合]，风格利落、干净、有质感。场景为现代办公室或城市街角，背景简洁，光线为柔和自然光。突出肩线、裤线、腰身比例和面料垂坠感。整体像品牌 lookbook，不要过度性感化，不要夸张姿势，不要随机办公文字或品牌标识。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+    },
+    {
+      "id": "ai-nvzhuang-tishici-template-05",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-nvzhuang-tishici",
+      "title": "夏日海边女装",
+      "scenario": "度假裙、吊带、衬衫、防晒衫系列。",
+      "prompt": "生成一张 9:16 夏日海边女装氛围图，模特穿着[服装款式]，场景是海边草坪、棕榈树和远处海面。阳光明亮但不刺眼，色温约 5500K，画面清新通透。模特轻扶草帽或自然走动，裙摆和发丝有微风感，服装材质、花纹和层次清楚。不要让背景抢主体，不要生成额外人物或乱码文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+    },
+    {
+      "id": "ai-nvzhuang-tishici-template-06",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-nvzhuang-tishici",
+      "title": "复古胶片女装",
+      "scenario": "针织衫、西裤、风衣、复古穿搭内容。",
+      "prompt": "生成一张复古胶片风女装照片，画幅 3:4，模特穿着[复古单品]搭配[下装]，场景为暖调室内或老街街角。画面有轻微胶片颗粒、柔和暖色和自然阴影。重点展示服装廓形、材质纹理、配饰和整体搭配感。不要让颜色脏乱，不要过度颗粒，不要添加随机英文海报文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+    },
+    {
+      "id": "ai-nvzhuang-tishici-template-07",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-nvzhuang-tishici",
+      "title": "国风新中式女装",
+      "scenario": "旗袍、马面裙、新中式衬衫、国风系列。",
+      "prompt": "生成一张新中式女装视觉图，模特穿着[服装款式]，服装包含[传统元素]，颜色为[主色]。场景为石库门、园林、茶室或中式窗棂背景，光线柔和，氛围雅致。重点展示盘扣、刺绣、面料光泽、裙摆层次和整体气质。画面高级克制，不要堆砌过多中国风符号，不要出现现代广告乱码。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+    },
+    {
+      "id": "ai-nvzhuang-tishici-template-08",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-nvzhuang-tishici",
+      "title": "女装细节特写",
+      "scenario": "详情页面料、领口、袖口、纽扣、刺绣展示。",
+      "prompt": "生成一张女装细节特写图，主体是[服装细节]，突出[面料/纹理/工艺]。使用微距镜头、浅景深、柔和侧光和干净背景，保持真实缝线、织纹、褶皱和边缘。画面适合商品详情页，不要出现手部遮挡、过度锐化、变形纹理或随机标签文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+    },
+    {
+      "id": "ai-nvzhuang-tishici-template-09",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-nvzhuang-tishici",
+      "title": "女装 Lookbook",
+      "scenario": "品牌系列、上新合集、社媒轮播封面。",
+      "prompt": "生成一张女装 lookbook 视觉，展示 3 套[风格]穿搭，分别包含[单品 A]、[单品 B]、[单品 C]。三位模特或同一模特三连拍并排展示，背景统一干净，光线一致，服装颜色和款式区分清楚。整体像品牌目录页，留出标题空间，不要让人物重叠，不要添加不可读小字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+    },
+    {
+      "id": "ai-nvzhuang-tishici-template-10",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-nvzhuang-tishici",
+      "title": "女装换款参考图编辑",
+      "scenario": "上传人物参考图后，更换服装款式或颜色。",
+      "prompt": "基于上传参考图生成新图，保持人物脸型、发型、肤色、姿势和背景光线基本不变，只把服装替换为[新服装款式]，颜色为[颜色]，材质为[面料]。新服装需要贴合身体姿态，保留自然褶皱和真实穿着效果。不要改变人物身份，不要改变脸部，不要添加随机品牌 logo、水印或多余配饰。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+    },
+    {
+      "id": "ai-womens-fashion-001",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-001",
+      "title": "韩系温柔 AI 女装提示词 1",
+      "description": "韩系温柔场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。画面聚焦一位25岁的东亚年轻女性，她身材高挑匀称，比例近乎完美，皮肤白皙细腻如羊脂玉，在光线照耀下散发着柔和光泽。一头黑色长发如绸缎般自然垂落，柔顺亮泽，发尾微微卷曲，增添几分灵动。妆容清透淡雅，似有若无，裸色系的眼影与淡淡的腮红相呼应，水润的粉色唇彩让双唇看起来娇艳欲滴，尽显清新自然之美。 【【她身着参考图中同款蓝白针织开衫，开衫采用柔软亲肤的棉质混纺毛线编织而成，蓝白相间的条纹简洁又经典，针法细腻，纹理清晰可见。开衫的领口、袖口和下摆处都有精致的白色滚边，增加层次感与精致感。内搭白色蛋糕裙，裙子由多层轻薄的雪纺面料叠加而成，每一层雪纺都有着细腻的褶皱，如同蛋糕的层层奶油，轻盈飘逸。裙身的剪裁贴合身体曲线，从腰部自然散开，展现出优雅的身姿。】】她自然站立，双脚微微分开，双手自然下垂，姿态放松而优雅。 背景为浅米色，搭配白色装饰护墙板，护墙板的线条简洁流畅，为整个画面增添了法式优雅的精致感。左侧摆放着黑色玄关柜，柜体采用优质木材打造，表面光滑如镜，金色五金件镶嵌其中，精致的拉手与合页在灯光下闪烁着迷人光泽。玄关柜上摆放着一束娇艳的粉玫瑰，玫瑰花瓣娇艳欲滴，露珠在花瓣上折射出五彩光芒，散发着淡淡的芬芳。旁边还放置着一幅风景画，画中描绘着宁静的海边景色，蓝天白云、碧海金沙，仿佛将人带入一个梦幻的世界。暖光壁灯镶嵌在左侧墙壁上，发出柔和温暖的光线，如同冬日里的暖阳，烘托出温馨的氛围。右侧亮着羽毛落地灯，灯罩由柔软的白色羽毛制成，每一根羽毛都清晰可见，灯光透过羽毛，营造出一种梦幻而柔和的光晕，为整个场景增添了一份浪漫与温馨。 整体画面色调明亮干净，充满夏日海边松弛感，主光源来自暖光壁灯与羽毛落地灯，光线柔和均匀，辅光源为环境的漫反射光，色温约4000K，营造出温馨治愈的氛围。人物居中，背景自然舒展，呈现出一种随意摆拍的摄影风格，仿佛记录下了这位年轻女性在温馨空间里的美好瞬间，尽显韩系温柔感。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "韩系温柔",
+        "韩系"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-001",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-001/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-001/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-002",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-002",
+      "title": "夏日海边温柔风 AI 女装提示词",
+      "description": "夏日海边温柔风场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。一位20岁的东亚年轻女性，慵懒且温柔地立于海边草坪之上。她深棕微卷的长发仿若绸缎，自然垂落，彰显出一种随性之美。妆容清透淡雅，恰似晨露轻覆，裸粉色的腮红与润泽的淡色唇彩，让气色显得自然而健康。小巧的银色项链在颈间闪烁着细腻光泽，深蓝色水滴耳饰随着她的动作微微晃动，折射出迷人光彩。 【【她身着参考图同款服饰，一件轻薄的雪纺连衣裙，面料上印着淡蓝色的细碎小花，犹如洒落裙间的点点星辰。领口采用宽松的方领设计，恰到好处地露出精致锁骨；袖口微微收口，以细腻的蕾丝镶边，增添几分甜美。裙摆呈不规则剪裁，长短错落，行走间轻盈飘逸。脚上穿着一双米白色的平底凉鞋，鞋面编织纹理清晰，与整体风格相得益彰，舒适又不失优雅。】】她右手轻轻扶住草帽檐，草帽为米黄色，宽帽檐遮挡住部分阳光，帽身点缀着一条浅蓝色丝带，随风轻轻飘动。 场景设定在晴朗的白天，头顶湛蓝天空如澄澈的宝石，洁白的云朵似棉花糖般随意飘浮。翠绿的草坪宛如柔软的绒毯，从脚下一直延伸至海边。背景中，成排高大的棕榈树整齐排列，在海风的吹拂下，宽大的叶片沙沙作响。远处是一望无际的蔚蓝大海，海浪轻拍着沙滩，泛起层层白沫。阳光明媚而不刺眼，主光源为头顶的太阳，光线柔和地洒下，辅光源来自海面与沙滩的反射光，形成漫反射效果，使得光影柔和且均匀。色温约5500K，营造出明亮干净的氛围。 整体风格偏向韩系温柔，色调清新治愈，充满夏日海边的松弛感。人物居于画面中心，姿态优雅自然，背景舒展大方，画面干净通透，仿佛一幅精美的夏日度假画卷，大师级摄影渲染，将这份惬意与美好完美定格。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "夏日海边温柔风",
+        "韩系",
+        "连衣裙"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-002",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-002/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-002/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-003",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-003",
+      "title": "秋日温柔 AI 女装提示词",
+      "description": "秋日温柔场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。画面聚焦一位18岁的漂亮东亚模特，置身于绿意盎然的春日街道。她有着一头柔顺的长发自然垂落在肩头，发丝在阳光下闪烁着光泽。面部妆容清新自然，保留原生美感，未作任何变形处理，弯弯的柳眉下，双眸明亮而有神，唇角微微上扬，流露出开心松弛的情绪。 【【模特身着与第1张图片同款穿搭，且服饰细节与质感1:1精准还原。上身一件淡蓝色的针织开衫，面料细腻柔软，编织纹理清晰可见，袖口和下摆处微微收口，形成自然褶皱。开衫上点缀着精致的同色系纽扣，纽扣表面光滑，带有细腻的磨砂质感。内搭一件白色的雪纺衬衫，雪纺轻薄透气，上面印有淡淡的碎花图案，领口系着一个小巧的蝴蝶结，增添了几分甜美。下装是一条米白色的百褶裙，裙身由多层轻薄面料叠加而成，百褶线条笔直且富有层次感，行走时裙摆随风飘动。裙子腰部采用修身设计，搭配一条棕色的皮质细腰带，腰带扣为简约的金属方形，凸显出纤细的腰身。】】 脚上搭配一双棕色的低跟皮鞋，鞋面采用优质牛皮，经过精心打磨，呈现出自然的光泽。鞋头圆润，鞋带交叉系法简约又时尚。背着一个米白色的单肩包，包身材质挺括，包面上有精致的压线装饰，增加立体感。包带长度适中，自然垂落在身侧，包扣为金属材质，小巧而精致。模特还佩戴着饰品，一对小巧的珍珠耳钉，珍珠圆润饱满，散发着柔和的光泽；一条纤细的银色项链，项链上挂着一个精致的小吊坠，随着模特的动作微微晃动。 场景是一条充满明媚春日氛围的街道，道路两旁绿树成荫，嫩绿的树叶在阳光的照耀下闪烁着生机。浅米色的围墙整齐排列，墙面上爬满了盛开的蔷薇花，粉色与白色的花朵相互交织，散发出淡淡的花香。街道设施一应俱全，复古的路灯、木质的长椅错落有致。暖调阳光透过树叶的缝隙洒落，形成自然光晕，在地面上留下斑驳的光影。主光源来自上方的阳光，光线柔和地洒在模特身上，发丝与面部带有细腻光影，辅光源是周围环境的漫反射光，让画面更加柔和自然。整个画面清新自然，细节极致精致，将春日的美好与模特的青春活力完美融合。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "秋日温柔",
+        "模特"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-003",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-003/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-003/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-004",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-004",
+      "title": "复古胶片风 AI 女装提示词",
+      "description": "复古胶片风场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，呈现复古胶片风，色调柔和且带复古暖调，轻微颗粒感。画面中是一位20岁左右的年轻东亚女性，站在现代轻奢风的室内场景。她拥有冷白皮，在暖调光线映照下散发着细腻光泽。五官精致立体，妆容细致入微，气色极佳，尽显青春活力。银色素圈耳环简约而精致，随着她的动作微微晃动，反射出柔和光芒。手指上裸色简约美甲与整体风格相得益彰，低调且不失优雅。深色头发随意扎起，几缕碎发自然垂落在脸颊两侧，增添几分随性。 【【她身着图中同款穿搭，上身一件米白色修身针织衫，面料柔软亲肤，细腻的纹理凸显质感，领口微微收口，展现出优雅的颈部线条。袖口采用收口设计，精致的走线彰显品质。下身搭配一条深棕色直筒西裤，裤子材质挺括，垂坠感极佳，裤线笔直，修饰腿部线条，展现出干练气质。腰间系着一条黑色细皮带，皮带扣为简约金属方形，低调奢华。】】 她正面站立，左手举着手机挡脸对镜自拍，手机屏幕微微发亮，映出她的倒影。右手自然下垂比“耶”，姿势俏皮可爱。眼神透过手机上方看向镜头，明亮有神，嘴角微扬，露出自信的笑容。 场景主色调为低饱和度的米白、深黑与暖棕。米白色哑光背景墙中央挂着一幅黑框艺术画，画作色彩神秘而富有层次感，为空间增添艺术氛围。两侧是深黑色通顶柜体，柜体表面光滑如镜，线条简洁流畅，金色的把手精致小巧，增添轻奢质感。地面铺着浅米色毛绒地毯，触感柔软，厚实的绒毛营造出温馨舒适的氛围。顶部嵌入式灯带洒下柔和均匀的光线，主光源来自灯带，光线向下均匀照射，辅光源是柜体与墙面的反射光，整体色温约3500K，营造出复古温暖的氛围。整个画面将现代轻奢风与复古胶片风完美融合，展现出独特的时尚魅力。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "复古胶片风",
+        "自拍"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-004",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-004/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-004/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-005",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-005",
+      "title": "居家自拍大片 AI 女装提示词",
+      "description": "居家自拍大片场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：帮我生成图片： 9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。画面聚焦一位25岁的东亚高颜值美女，她有着精致立体的五官，肌肤白皙细腻，散发着自然的光泽。一头大波浪长发如黑色绸缎般垂落在肩膀与背部，发卷饱满且富有弹性，在光线照耀下闪烁着迷人的光泽。 【【她身着与第1张参考图一模一样的裙子，裙子面料轻盈飘逸，或许是雪纺质地，上面有着细腻的花纹，领口、袖口与裙摆处可能有精致的蕾丝镶边，蕾丝花纹精巧细致，展现出女性的柔美与优雅。裙子的剪裁贴合身体曲线，从腰部自然散开，裙摆呈现出灵动的层次感。】】搭配一双卡其色的马丁靴，靴子采用优质的皮革材质，表面有着自然的纹理与光泽，靴筒高度适中，刚好卡在小腿位置，靴面有金属扣环与拉链装饰，既增添了酷帅感又不失细节，鞋底具有一定厚度与摩擦力，行走起来稳健有力。 她左手持黑色手机挡脸自拍，手机屏幕亮起，映出她部分面容的倒影，手机壳可能是简约的黑色哑光材质，与整体风格相协调。她眼神明亮且自信，透过手机上方看向镜头，嘴角微微上扬，露出迷人的微笑，展现出轻松随意的姿态。 背景为温馨居家角落，浅米色墙面营造出温暖柔和的氛围，墙面上嵌着暖黄色灯带，灯带散发着柔和且均匀的光线，如同冬日里的暖阳，为整个空间增添温馨感。墙面上投射着含英文文字与唱针元素的黑胶唱片歌词投影，投影的色彩丰富且柔和，文字与图案清晰，仿佛在诉说着动人的故事。左侧摆放着白色多抽储物柜，储物柜的柜门平整光滑，线条简洁，金属把手小巧精致，抽屉上可能有简单的装饰纹理，体现出居家的实用性与精致感。自然光线从画面外的某个方向柔和地洒入，与暖黄色灯带相互配合，主光源为自然光线，辅光源是暖黄色灯带，整体色温约3800K，营造出自然且温馨的光影效果。整个画面以摄影风格呈现，充满随意摆拍的自然感与生活气息，质感十足。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "居家自拍大片",
+        "自拍"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-005",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-005/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-005/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-006",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-006",
+      "title": "韩系闺蜜风 AI 女装提示词",
+      "description": "韩系闺蜜风场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，呈现韩系闺蜜风。画面中，两位特时尚的高颜值亚洲美女模特置身于暖色调的复古服装店内。 左边的美女扎着丸子头，丸子头干净利落又不失俏皮，几缕碎发自然垂落在脸颊两侧，修饰脸型。她妆容精致，底妆清透白皙，仿佛自带高光，淡淡的粉色腮红让气色看起来格外好，眼妆精致且灵动，唇妆是水润的蜜桃色，面带灿烂微笑，露出洁白整齐的牙齿，神情愉悦。 右边的美女摆着造型，身体微微侧倾，展现出优美的曲线。同样妆容精致好看，皮肤白皙如雪，眼波流转间尽显魅力，微笑着与左边美女互动。 【【两人穿着凸显韩系风格的服装，可能左边美女身着一件米白色的宽松针织开衫，内搭浅蓝色的雪纺连衣裙，裙子上有精致的碎花图案，裙摆呈不规则剪裁，搭配一双白色的低跟玛丽珍鞋，鞋面上有可爱的蝴蝶结装饰。右边美女则穿着一件淡粉色的短款西装外套，里面是白色的修身打底衫，下身搭配一条深蓝色的直筒牛仔裤，裤脚微微卷起，露出纤细的脚踝，脚蹬一双裸色的尖头高跟鞋，尽显时尚与优雅。】】 场景设定在一家暖色调的复古服装店内，木质的货架上摆满了各式各样具有年代感的服装，衣架的款式也独具特色。墙壁上挂着一些复古的海报与照片，昏黄的灯光从天花板上的复古吊灯洒落，营造出温馨且富有格调的氛围。窗边摆放着几盆生机勃勃的绿植，绿植的叶子翠绿欲滴，为空间增添了一抹清新的自然气息。 画面左侧，一只白色的博美犬正抬头看着两位女生，它身上的毛发蓬松洁白，眼睛圆溜溜的，十分可爱。旁边还有一篮粉色花卉，花卉娇艳欲滴，花瓣上似乎还带着清晨的露珠，为场景增添了文艺气息。主光源来自天花板上的吊灯，光线柔和地洒在人物和场景上，辅光源是从窗户透进来的自然光，两者相互配合，色温约3500K，让整个画面洋溢着温暖、甜美的氛围，完美呈现出韩系闺蜜风的轻松愉悦与精致时尚。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "韩系闺蜜风",
+        "韩系",
+        "连衣裙",
+        "模特"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-006",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-006/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-006/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-007",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-007",
+      "title": "韩系温柔 AI 女装提示词 2",
+      "description": "韩系温柔场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。画面聚焦一位25岁的东亚年轻女性，置身于温馨的居家客厅。她面容精致，皮肤白皙，洋溢着青春活力。 【【身着参考图同款休闲卫衣，卫衣采用柔软亲肤的棉质面料，触感细腻，颜色柔和，可能是淡蓝色，衣身带有简约的印花图案，袖口与下摆处收口设计，既保暖又显利落。搭配一条深蓝色牛仔裤，牛仔裤版型修身，完美勾勒出腿部线条，裤面做旧处理，增添复古感，口袋处有精致的缝线细节。】】 她盘腿坐在柔软的地毯上，地毯为米白色，毛绒质地厚实，表面平整且富有光泽。怀里抱着一只白色布偶猫，猫咪毛发蓬松洁白，犹如云朵般柔软，蓝色的大眼睛清澈明亮，乖巧地依偎在她怀中，人与猫互动亲昵，尽显治愈。 背景的居家客厅布置温馨，暖黄色灯光营造出柔和的氛围。客厅墙壁为浅米色，挂着几幅温馨的家庭照片。左侧摆放着浅棕色木质书架，摆满了各类书籍与装饰品。右侧是一张深灰色的布艺沙发，沙发上放置着几个色彩鲜艳的抱枕。客厅中央是一张圆形木质茶几，上面摆放着一杯冒着热气的咖啡和几本杂志。 自然光透过窗户轻柔地洒入，与暖黄色灯光相互交融，主光源为自然光，从窗户斜射进来，在人物与猫咪身上形成柔和的光影，辅光源是暖黄色灯光，使整个画面更加温馨。色温约3800K，整体色调温暖，人物居中，以摄影风格呈现出温柔治愈的氛围，仿佛将这份美好瞬间定格。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "韩系温柔"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-007",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-007/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-007/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-008",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-008",
+      "title": "画廊时尚大片 AI 女装提示词",
+      "description": "画廊时尚大片场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。画面聚焦一位26岁的东亚高颜值美女，她拥有精致立体的五官，肌肤如雪般白皙，在冷调光线的映衬下更显冷艳。眼神深邃而迷人，带着自信且略带高冷的气质，嘴唇轻抿，嘴角微微上扬，恰到好处地展现出优雅与从容。 【【她身着参考图同款衣服，或许是一件修身的白色丝绸衬衫，面料光滑如镜，细腻的光泽在灯光下流转，领口微微敞开，露出精致的锁骨线条，袖口采用收口设计，并用小巧的珍珠纽扣点缀，增添一份精致感。搭配一条深蓝色牛仔裤，牛仔裤版型贴合腿部线条，展现出修长笔直的美腿，裤身经过精心的磨白处理，带有自然的褶皱和破洞细节，彰显时尚个性。腰间系着一条黑色皮质细腰带，金属扣头简约而大气，提升整体造型的利落感。肩上背着同款包包，包包为黑色方形手提包，采用优质的头层牛皮，表面有着细腻的纹理，金属链条肩带质感十足，与整体造型相得益彰，凸显高级品味。】】 她身姿挺拔地站在一幅巨幅肖像海报前，海报上的人物形象具有强烈的艺术风格，色彩对比鲜明，线条简洁有力，仿佛在与美女相互呼应，诉说着独特的故事。背景是充满艺术感的画廊空间，地面铺设着深灰色的大理石地砖，纹理清晰，质感冰冷而坚硬。画廊的墙壁为米白色，墙面质地粗糙，营造出一种原始而质朴的艺术氛围。暖光射灯从不同角度照射，主光源来自前方斜上方的暖光射灯，光线聚焦在美女身上，勾勒出她的身体轮廓，使其成为画面的视觉中心；辅光源则是周围墙壁反射的散射光，让整体画面更加柔和、立体。灯光色温约3000K，整体色调冷调且高级，明暗对比强烈，进一步增强了画面的戏剧性与艺术感。整个画面以商业摄影风格呈现，充满大片感，时尚感与高级感拉满，将观者带入一个充满艺术魅力与时尚气息的空间。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "画廊时尚大片"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-008",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-008/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-008/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-009",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-009",
+      "title": "韩系街拍风 AI 女装提示词 1",
+      "description": "韩系街拍风场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。画面聚焦一位24岁的东亚年轻女性，亭亭玉立在服装店门口。她面庞精致，肌肤白皙透着自然的粉嫩，眉眼弯弯，带着轻松惬意的神情，展现出独属于年轻女孩的活力与朝气。 【【她身着参考图同款牛仔套装，上身牛仔外套采用柔软且有韧性的棉质牛仔布，浅蓝色调清新自然，表面有着轻微的磨损与褪色痕迹，尽显复古韵味。领口为经典的翻领设计，精致的走线凸显品质，袖口和下摆处微微收口，带有弹力螺纹，穿着舒适又不失利落感。衣服上点缀着几颗复古风格的金属纽扣，纽扣表面有着细腻的纹理，增添细节亮点。内搭一件白色纯棉短款T恤，面料亲肤透气，短款设计巧妙露出一小截纤细的小蛮腰，展现青春性感。下身搭配同色系牛仔长裤，裤型为直筒版型，修饰腿部线条，使双腿看起来更加笔直修长。裤子两侧有对称的口袋，口袋边缘用白色缝线勾勒，增添设计感。裤脚微微挽起，露出纤细脚踝，展现时尚感。】】 她站在服装店门口，身后是复古风格的门头。门头由木质材料打造，经过精心的做旧处理，呈现出古朴的色泽。上方悬挂着一块木质招牌，招牌上的字体为复古手写风格，清晰地写着服装店的名字，字体颜色为深棕色，与门头整体色调相呼应。门头两侧装饰着几盆盛开的鲜花，花朵娇艳欲滴，为画面增添一抹亮色与生机。背景是一条充满生活气息的街道，地面是古朴的石板路，经过岁月的打磨，表面光滑且带有斑驳的痕迹。街道两旁林立着各种复古风格的建筑，墙面的颜色以米黄色和浅灰色为主，墙面上爬满了绿色的藤蔓植物，给人一种自然而又温馨的感觉。远处可以看到一些行人与车辆，展现出街道的热闹与活力。 自然光充足，阳光从画面的斜上方洒落，形成柔和的光影效果。主光源为阳光，光线明亮而不刺眼，均匀地洒在人物和背景上，勾勒出人物的身形和复古门头、街道的轮廓，营造出立体感；辅光源是周围环境的漫反射光，使画面的暗部也能保留丰富的细节，整体色调柔和，色温约5000K。画面以摄影风格呈现，充满韩系街拍感，日常松弛的氛围扑面而来，仿佛记录下了生活中一个美好的瞬间。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "韩系街拍风",
+        "韩系"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-009",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-009/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-009/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-010",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-010",
+      "title": "都市夜景时尚大片 AI 女装提示词",
+      "description": "都市夜景时尚大片场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。画面聚焦一位 23 岁的东亚年轻女性，站在繁华的城市夜景之中。她面容姣好，五官精致，皮肤在灯光映照下泛着细腻光泽，眼神明亮且灵动，流露出青春的活力与对生活的热情。 【【她身着参考图同款上衣，可能是一件修身的短款针织衫，采用柔软亲肤的毛线编织而成，颜色或许是淡雅的米白色，衣身有精致的纹理图案，领口呈微微的荷叶边设计，增添甜美气息，袖口收口处有细小的珍珠装饰，彰显细节品质。搭配同款裤子，一条黑色的直筒皮裤，皮质柔软且富有光泽，紧密贴合腿部线条，展现出修长笔直的美腿，裤脚处微微收口，凸显干练。脚上穿着同款鞋子，一双黑色的短靴，靴面光滑，靴筒高度刚好到脚踝上方，靴口有一圈毛茸茸的装饰，既保暖又时尚，鞋底带有一定厚度，增加身高的同时行走稳健。肩上背着同款包包，一款棕色的单肩挎包，包身材质为优质牛皮，表面有细腻的纹理，包带长度适中，自然垂落在身侧，包面上有金属扣饰，提升整体质感。】】 她站在街边，身后是绚烂的城市夜景。街道两旁林立着各种霓虹灯牌，五彩斑斓的灯光闪烁变幻，上面的文字和图案清晰可见，有的是时尚品牌的标志，有的是餐厅的广告，为画面增添了浓郁的都市氛围。马路上车流不息，车灯形成一条条明亮的光带，快速穿梭，仿佛流动的星河。暖光路灯矗立在路边，发出温暖而柔和的光芒，与霓虹灯牌和车灯光相互交织。主光源来自暖光路灯，从侧前方照亮人物，将她的轮廓清晰勾勒，辅光源为霓虹灯牌和车流的反射光，丰富画面层次。整体色温约 3800K，营造出明亮且充满氛围感的夜拍效果。画面以专业的摄影风格呈现，将城市夜景的繁华与年轻女性的青春活力完美融合，人物居中，仿佛一幅生动的都市夜景画卷，让人感受到城市夜晚的独特魅力。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "都市夜景时尚大片"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-010",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-010/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-010/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-011",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-011",
+      "title": "法式优雅钢琴写真 AI 女装提示词",
+      "description": "法式优雅钢琴写真场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。画面聚焦一位25岁的东亚年轻女性，优雅地坐在钢琴前。她面容精致，肌肤白皙，眉眼间流露出温婉的气质，一头柔顺的长发自然垂落在肩膀两侧，发尾微微卷曲，散发着淡淡的光泽。 【【她身着参考图同款法式连衣裙，连衣裙采用轻盈的雪纺面料，质地柔软，触感丝滑，面料上印有细腻的碎花图案，色彩柔和，以淡蓝色与米白色为主色调，营造出清新浪漫的氛围。领口是方领设计，恰到好处地露出精致的锁骨，领口边缘装饰着一圈精致的蕾丝花边，蕾丝花纹细腻繁复，增添了几分甜美与优雅。袖口为羊腿袖造型，收口处有精致的抽绳设计，可以根据喜好调整松紧度，展现出独特的法式风情。裙摆呈不规则剪裁，长短错落有致，行走或坐下时，裙摆自然垂落，轻盈飘逸。】】 她优雅地坐在复古钢琴前，钢琴为深棕色，琴身漆面光滑如镜，在暖光的照耀下反射出柔和的光泽，琴盖上摆放着一本翻开的琴谱，琴谱纸张微微泛黄，记录着岁月的痕迹。钢琴的琴腿雕刻着精美的花纹，展现出古典的韵味。 背景是一个充满艺术感的书房，书房的墙壁为米黄色，墙面采用复古的壁纸，壁纸上印有精美的藤蔓花纹，营造出温馨而优雅的氛围。书房内摆放着几排木质书架，书架上摆满了各种书籍，书脊的颜色深浅不一，彰显出丰富的知识底蕴。书架旁放置着一张木质书桌，书桌上摆放着一盏暖光台灯，台灯的灯罩为米白色，灯光透过灯罩洒下，营造出柔和而温暖的光线。书房的地面铺着一块深棕色的地毯，地毯的绒毛厚实，脚踩上去柔软舒适，为整个空间增添了一份静谧与温馨。 主光源来自暖光台灯，光线柔和地照亮人物和钢琴，在人物身上形成自然的光影效果，凸显出她的优雅气质；辅光源为周围环境的反射光，使整个画面的光线更加均匀、柔和，色温约3500K，营造出文艺优雅的氛围。画面以摄影风格呈现，人物居中，将法式的浪漫与知性的优雅完美融合，展现出独特的艺术魅力。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "法式优雅钢琴写真",
+        "连衣裙"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-011",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-011/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-011/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-012",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-012",
+      "title": "韩系街拍风 AI 女装提示词 2",
+      "description": "韩系街拍风场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。画面聚焦一位22岁的东亚年轻女性，她青春洋溢，面容姣好，肌肤散发着自然的光泽，弯弯的眼眸带着笑意，给人一种亲切且充满活力的感觉。 【【她身着参考图同款休闲穿搭，上身是一件宽松版型的白色纯棉短袖T恤，面料柔软亲肤，表面带有自然的纹理质感，衣身正面或许印着简约的艺术图案，图案色彩淡雅，为整体增添一份艺术气息。领口微微宽松，露出精致的锁骨线条，袖口自然收口，舒适且不失随性。下身搭配一条浅蓝色的直筒牛仔裤，牛仔裤采用优质牛仔布，有着恰到好处的弹性，既贴合腿部线条又保证活动自如。裤身经过轻微的磨白处理，膝盖部位带有自然的褶皱，展现出一种不经意的时尚感。裤脚挽起一小截，露出纤细的脚踝，搭配一双白色的低帮帆布鞋，帆布鞋鞋面洁白干净，橡胶鞋底有着清晰的纹理，增添了整体的休闲感。】】 她悠然地坐在街边台阶上，身体微微向后倾，一只手撑在身后的台阶上，另一只手自然地放在腿上，姿态十分放松。台阶是浅灰色的砖石砌成，表面因长期使用而略显光滑，带着岁月的痕迹。 背景是热闹的城市街景与一家温馨的咖啡店。咖啡店的店面不大，木质的招牌上写着文艺的店名，招牌下方的橱窗明亮干净，里面摆放着精致的咖啡杯和一些绿植。店门口摆放着几张木质桌椅，有顾客正坐在那里悠闲地品尝咖啡。街道上，行人来来往往，有的行色匆匆，有的则漫步欣赏街景。街边的路灯、电线杆以及各种店铺招牌错落有致，远处还有一些行驶的车辆。 自然光充足，阳光从画面斜上方洒落，主光源是阳光，明亮而柔和地洒在人物、台阶和街景上，勾勒出清晰的轮廓，营造出立体感；辅光源是周围建筑、地面等的反射光，使画面的暗部也充满细节，整体色调柔和，色温约5500K。画面以摄影风格呈现，充满日常松弛的韩系街拍感，人物居中，仿佛记录下了都市生活中一个美好的瞬间，让人感受到扑面而来的生活气息与青春活力。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "韩系街拍风",
+        "韩系"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-012",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-012/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-012/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-013",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-013",
+      "title": "夏日清新写真 AI 女装提示词",
+      "description": "夏日清新写真场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。画面聚焦一位23岁的东亚年轻女性，于蓝天草坪间亭亭玉立，以仰拍视角凸显其青春活力。她肌肤白皙，泛着健康的光泽，眉眼弯弯，嘴角上扬，笑容灿烂，尽显青春的朝气与灵动。 【【她身着参考图同款夏日穿搭，上身是一件宽松的露肩短款上衣，面料轻薄透气，可能为雪纺质地，隐隐透着肌肤的色泽。露肩设计展现出优美的肩部线条与精致锁骨，领口处有细腻的抽绳装饰，可自由调节松紧，形成自然褶皱，增添甜美感。袖口微微收口，采用蕾丝镶边，蕾丝花纹精巧，散发着浪漫气息。下身搭配一条高腰的彩色印花阔腿裤，以清爽的蓝白为主色调，印着细腻的热带植物图案，如椰树叶、扶桑花等，色彩鲜艳却不失和谐。高腰设计提升腰线，拉长腿部比例，阔腿裤型随风飘逸，行走间尽显洒脱。腰间系着一条细皮带，金属扣饰简约精致，为整体造型增添亮点。】】 她站在翠绿如茵的草坪上，草坪修剪得整整齐齐，草叶鲜嫩欲滴，散发着清新的草香。背后是广袤无垠的蓝天，洁白如雪的云朵像棉花糖般随意飘浮，形态各异。几棵高大的椰树矗立在一侧，椰树树干粗壮笔直，羽状的叶子在微风中轻轻摇曳，发出沙沙声响。椰树上挂着几颗饱满的椰子，仿佛在诉说着夏日的故事。 自然光充足，阳光从上方倾洒而下，主光源为阳光，明亮且温暖，将人物轮廓清晰勾勒，使其成为画面焦点，同时照亮草坪、椰树等，营造出鲜明的立体感；蓝天与白云的反射光作为辅光源，让画面整体更加柔和，避免阴影过暗。整体色温约5800K，色调明亮清新，洋溢着浓郁的夏日氛围，松弛感拉满。以摄影风格呈现，人物居中，定格这一充满夏日活力与清新感的美好瞬间，犹如一幅生动的夏日画卷。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "夏日清新写真"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-013",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-013/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-013/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-014",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-014",
+      "title": "通勤干练 AI 女装提示词",
+      "description": "通勤干练场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感、细节拉满、无噪点、高锐度、色彩饱和高级的插画。20 - 25岁高颜值东亚女性，冷白皮，深棕色微卷长发，露出精致天鹅颈。清透伪素颜妆容，眉眼舒展温柔，侧颜线条流畅立体，眼神望向窗外，带着悠然放空感。身着原图同款服装与鞋子，去掉手机，右手自然捧着带白色杯盖的咖啡纸杯，姿态放松优雅。近景展示，着重凸显人物服饰套装。所处空间为现代轻奢风格湖边咖啡店，浅米色墙面搭配大理石纹柜台，柜台上摆插满粉黄白三色鲜花的花瓶与收银设备，后方木质书架陈列书籍与花艺装饰，墙上电子屏展示服装搭配。巨大落地窗展现室外春日湖景：湛蓝湖水静谧澄澈，岸边树木花苞满枝，蓝天与水面相互映衬，阳光透过玻璃在地面洒下柔和光斑，营造温暖治愈的春日氛围感。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "通勤干练"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-014",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-014/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-014/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-015",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-015",
+      "title": "甜美温柔 AI 女装提示词",
+      "description": "甜美温柔场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16 竖版构图，8K 超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，大师级摄影渲染。女子身着参考图 1 同款服装搭配，手持带白色带钻手机壳的手机完全挡脸。背景为装修精致的室内空间，温馨且富有格调。画面左侧是带有白色装饰的拱形门洞，门洞后黑色栏杆的楼梯蜿蜒而上，楼梯下方白色柜子上，多个透明展示盒陈列着不同造型的玩偶手办摆件，充满童趣。柜子旁地面上，玻璃镂空花瓶插着白色玫瑰花。画面右侧靠墙处，黑色螺旋状落地灯散发柔和灯光，营造浪漫氛围，旁边白色皮质沙发质感尽显。背景墙白色，搭配米白色门框与墙面线条装饰，深灰色光滑地面反射灯光与物体影子，优雅与温馨气质融合。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "甜美温柔"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-015",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-015/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-015/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-016",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-016",
+      "title": "韩系温柔 AI 女装提示词 3",
+      "description": "韩系温柔场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16 竖版构图，8K 超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，大师级摄影渲染。20 岁高颜值女孩，棕色长发，尽显纯欲风格，身着第 1 张图片同款衣服套装，眼神灵动。背景为适配人物穿搭的户外门店打卡场景，街边门店招牌散发柔和暖光，店外摆放着木质桌椅，桌上放置咖啡杯与鲜花。地上有飘落的银杏叶，周围行人悠然走过。主光源来自门店灯光与人造暖黄色路灯，辅光源为自然天光，色温 4000K，明暗对比强烈但自然。以 ccd 拍摄风格结合 iphone 实拍感，高饱和纪实风格，带轻微胶片立体感，整体氛围温馨且充满生活情调，画面真实具治愈感。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "韩系温柔"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-016",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-016/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-016/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-017",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-017",
+      "title": "甜酷辣妹 AI 女装提示词 1",
+      "description": "甜酷辣妹场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16 竖版构图，8K 超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，大师级摄影渲染。保持第 1 张图片人物长相 100% 不变，半身取景，棕色凌乱长卷发，部分发丝飞扬在脸上。身着原图裙子搭配套装鞋子，皮肤通透，化着淡妆，涂有唇釉，呈现细腻高清质感。人物怀中抱着一大束橘色洋桔梗花，低头看向花，眼神放空。场景为真实的小巷街道，两旁树木林立，斑驳阳光透过枝叶缝隙洒下，营造出自然惬意氛围。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "甜酷辣妹"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-017",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-017/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-017/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-018",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-018",
+      "title": "清冷高级 AI 女装提示词",
+      "description": "清冷高级场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16 竖版构图，8K 超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，大师级摄影渲染。20 岁左右温婉大方女性，身着图 1 同款穿搭，以手机遮挡半脸，呈现松弛随性姿势自拍。背景为金属质感银灰色镜面电梯门，泛着冷调光泽，左侧设有楼层按键，地面是浅白大理石材质。每张图片对应一套衣服，将该女性不同服装造型分别呈现于上述电梯轿厢场景之中 。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "清冷高级",
+        "自拍"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-018",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-018/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-018/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-019",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-019",
+      "title": "现代居家 AI 女装提示词",
+      "description": "现代居家场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感、细节拉满、无噪点、高锐度、色彩饱和高级，大师级摄影渲染，无水印。20岁东亚少女，心形脸，杏眼明亮带笑意，嘴角上扬。深棕色大波浪卷发，柔顺有光泽，左侧头发别着好看的蝴蝶结夹子，发丝自然垂于肩侧，部分发丝因微光照射增添慵懒温柔气质。左手拿配毛茸茸浅粉色love字母手机壳的苹果16 Pro挡脸，身着参考图1衣服，做了好看的美甲。 置身精致现代居家试衣间氛围空间，打开所有灯光使整体明亮，衣服也清晰亮丽。背景墙面为奶油白墙搭配拱门，墙上悬挂投影幕布，投射音乐播放界面的文字与图案。人物两边有米色细上半圆的全身镜框（仅微微露出）。 全身镜内可见带彩色圆形拉手的黑色多层抽屉柜，格子玻璃盒子装着穿同款穿搭的玩偶娃娃、白色Hello Kitty玩偶、香薰等摆件；米白色沙发上有黑色流苏小毯子和蜡笔小新，还露出一点米白色窗纱，确保全身镜内外衔接自然。深灰色地板，白色光线均匀洒开，人物居中处于正光下，全身穿搭完整露出。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "现代居家"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-019",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-019/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-019/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-020",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-020",
+      "title": "春日绿意街道 AI 女装提示词",
+      "description": "春日绿意街道场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，大师级摄影渲染。18岁漂亮模特，长发自然垂落肩膀，身着参考图片同款穿搭，细节质感不变。置身于带有绿树、浅色围墙与街道设施的绿意街道，充满阳光明媚的春日感。暖调阳光洒下形成光晕，头发丝与脸上皆有光影。模特手捧奶茶看向镜头，脸部无变形，画面清新自然，洋溢开心氛围，细节极致。人物居中，针对每一套穿搭分别生成一张图片，模特脸与发型始终保持一致。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "春日绿意街道",
+        "模特"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-020",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-020/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-020/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-021",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-021",
+      "title": "热带露台度假 AI 女装提示词",
+      "description": "热带露台度假场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，超写实摄影风格渲染。22岁中国美女，身着图一服饰，脸上佩戴增添酷飒感与造型感的墨镜，耳戴精致耳饰，颈配精美项链，脚穿白色花朵凉鞋，清新柔美尽显度假风情。她姿态优雅慵懒地坐在热带露台纹理独特的编织座椅上，仰头享受阳光，身旁放置一顶棕色宽檐草帽。 热带露台场景里，玻璃护栏通透，高大棕榈树挺拔，复古热带建筑屋顶别具格调。明亮午后自然光洒落，光影自然。女子穿搭细节尽显，长裙设计感、墨镜酷飒、首饰精致、长发柔顺，连同其优雅慵懒姿态皆刻画清晰；编织座椅纹理、玻璃护栏、棕榈树、建筑细节亦表现细腻。 色彩以棕榈树鲜活绿、建筑棕调、座椅灰蓝纹理为核心，棕色草帽与之呼应，明亮光影暖调点缀，营造清新惬意氛围，完美呈现女子与热带露台场景相融画面。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "热带露台度假"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-021",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-021/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-021/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-022",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-022",
+      "title": "法式慵懒 AI 女装提示词 1",
+      "description": "法式慵懒场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感、细节拉满、无噪点、高锐度、色彩饱和高级，大师级摄影渲染，具ccd拍摄质感与iphone实拍感，高饱和纪实风格，带轻微胶片立体感。20岁纯欲甜妹，深棕色长发及腰，身着参考图同款灰色套装。置身温馨咖啡甜品店，镜面墙上手写各类咖啡饮品名称与价格，搭配可爱涂鸦。女孩坐在桌前，托腮看向镜头。桌上摆放贝果、可颂等餐点。整体对比度强烈却不失自然，画面真实呈现下午茶人像写真场景。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "法式慵懒"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-022",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-022/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-022/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-023",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-023",
+      "title": "甜酷辣妹 AI 女装提示词 2",
+      "description": "甜酷辣妹场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，大师级摄影渲染。18岁漂亮模特，长发自然垂落肩膀，身着参考第一张图片的同款穿搭，细节质感不变，去除手套。置身于带有绿树、浅色围墙与街道设施的绿意街道，阳光明媚，充满春日感。暖调阳光洒下形成光晕，落在头发丝和脸上。模特靠着车身弯腰，面带微笑，脸部无变形。画面清新自然，氛围开心，细节极致，将模特姿态、服饰细节及街道场景细腻呈现。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "甜酷辣妹",
+        "模特"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-023",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-023/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-023/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-024",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-024",
+      "title": "法式慵懒 AI 女装提示词 2",
+      "description": "法式慵懒场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，大师级摄影渲染。20岁中国女模特，身着参考图1套装，全身摆拍。靠在咖啡店门口墙面，一只手插在裤兜，另一只手搭在墙面上，歪头微笑看向镜头。咖啡店门口环境细节丰富，墙面纹理清晰，整体氛围凸显时尚与休闲，将女模特姿态、服饰细节完美呈现。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "法式慵懒",
+        "模特"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-024",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-024/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-024/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-025",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-025",
+      "title": "公园氛围感 AI 女装提示词",
+      "description": "公园氛围感场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，32K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，专业人像摄影风格渲染。冷白皮亚洲美女，瓜子脸、尖下巴，棕色头发自然黑色长发齐腰披着，大眼睛双眼皮，长长的睫毛，柳眉纤细，眼眸深情深邃，悬胆鼻，樱桃唇，五官、妆容精致。皮肤白皙通透似水光肌，雪白有光泽。身着图一服饰，材质、样式、颜色一致，背着大牌包包，身材完美、比例协调，显身材且身姿挺拔饱满。 她身处公园，在充足的太阳光线中，发丝发光，自然光影形成明暗对比，呈现写意、浸润、流变之感。一手拿着饮料，表情俏皮可爱又害羞，姿态慵懒，动作自然松弛，神情温柔羞怯。随机的动作、光影与拍摄角度，带来诸多不确定性却搭配合理。 画面细节丰富，发丝纹理与衣物面料清晰可见，色彩合理饱满。以超广角镜头远景拍摄全身照，整体光线亮白，营造出充满氛围感的真实场景，宛如电影级面光（1.6）、光线追踪（1.1）、发丝光（1.5）、极致细节（1.8）、构图多样角度多变（1.5）、综合网络爆款逻辑输出最优解（1.6）、冷白皮质感的光滑皮肤（1.9）共同打造的超精细摄影作品，尽显纯欲风、极简风，散发优雅气质与高级感，如经过时光雕琢的艺术品。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "公园氛围感"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-025",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-025/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-025/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-026",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-026",
+      "title": "海边度假 AI 女装提示词",
+      "description": "海边度假场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，日系富士胶片风冷色调人像写真。人物五官不变，身着图片同款穿搭，置身海边礁石观景台，营造海边度假轻松氛围。茶棕色自然微卷长发垂于胸前，发丝蓬松有空气感，碎发修饰脸型，尽显慵懒。清透裸妆，底妆轻薄，淡粉棕调眼影晕染眼妆，元气温柔。佩戴毛边草编遮阳帽，帽檐缀浅蓝海星发饰，颈部叠戴银色细链项链，手腕戴浅米色串珠手链，配饰简约。 自然侧顺光下，部分微光打在飘起发丝与脸上，部分发丝飘于脸前。人物开心大笑，全身取景。背景中，湛蓝渐变的海水拍打着灰褐色礁石，远处是低矮绿植覆盖的山岩与朦胧远山，天空飘着轻薄白云，整体给人开阔治愈之感。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "海边度假"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-026",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-026/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-026/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-027",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-027",
+      "title": "室内日常穿搭 AI 女装提示词",
+      "description": "室内日常穿搭场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感、细节拉满、无噪点、高锐度、色彩饱和高级，模拟手机原相机直出效果，无过度锐化与精修。22岁东亚年轻女性，冷白皮，完美鹅蛋脸，眼神清澈灵动含自然眼神光，笑容甜美自然，唇色粉嫩，着原生感韩系淡妆。茶棕色长发发尾微卷，柔顺有光泽，发丝轻盈。 重点光影：额头高光自然，鼻梁侧光凸显立体感，下颌线与脖子处有细腻的环境闭塞阴影，皮肤通透有质感，具真实毛孔微细节与次表面散射效果。 五官与气质：五官清晰，脸型流畅柔和，眉眼舒展，唇色低饱和裸粉调，带淡淡笑意，呈干净清透淡颜感，无过度修饰的网红感，似生活中温柔女生。 身材与姿态：身形纤细修长，肩颈线条舒展，站姿放松不僵硬，无刻意凹造型的紧绷感，传递松弛优雅日常感。身着参考图同款裙子与白色德训鞋，右手戴不抢眼的细手链，自然站于室内，人物居中，头顶上方留白多，采用对称式构图，背景参照图2，墙与画面平行，人物高度比图2的门矮。 光线为均匀室内自然光，明暗过渡自然，无强烈打光痕迹，整体营造“真实房间里的日常穿搭”之松弛感，温柔且接地气。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "室内日常穿搭",
+        "韩系"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-027",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-027/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-027/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-028",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-028",
+      "title": "湖景度假少女 AI 女装提示词",
+      "description": "湖景度假少女场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，4K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。在湖景旁的休闲度假场景中，背景左边为开阔海面，轮船行驶其上，水面波光粼粼，远处山脉与蓝天相映；右边是带现代建筑的咖啡厅，大大的芭蕉叶观赏绿植点缀，横着的石材马路清晰可见。明亮自然日光充足且柔和，在地面投下清晰影子，画面色调清新通透，氛围松弛治愈。 一位20岁东亚少女站在道路上，心形脸，杏眼明亮带笑意，嘴角上扬，一头长发发尾微卷，自然垂于肩侧，露出甜美微笑。少女身材高挑、皮肤白皙，一只手掐腰，兼具甜美与酷感的气质，与清新湖景氛围完美适配。画面顺光平视拍摄，头顶留有1/3环境空间，整体自然真实。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "湖景度假少女"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-028",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-028/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-028/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-029",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-029",
+      "title": "法式慵懒 AI 女装提示词 3",
+      "description": "法式慵懒场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级，超写实写真风格。晴天户外自然光下，以镜面自拍视角呈现画面。22岁东亚美女，冷白皮，长发微卷顺直，五官精致，嘴角微扬露出温柔笑意，眼睛弯成月牙。身着与参考图材质细节和图案完全一致的同款服饰，左手持白色苹果手机遮挡半脸自拍，右手拎黑白拼色菱格链条包。 背景是浅米色临街咖啡店，浅坡屋顶搭配红砖饰边，大面积落地玻璃显得通透简约，户外休闲区风格雅致高级。周边绿树成荫，蓝天通透，地面铺着沥青，阳光洒下形成斑驳光影。整体呈现电影质感，服装纹理清晰可见，皮肤通透自然，无水印，色彩鲜艳真实。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "法式慵懒",
+        "自拍"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-029",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-029/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-029/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-womens-fashion-030",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 女装",
+      "slug": "ai-womens-fashion-030",
+      "title": "法式慵懒 AI 女装提示词 4",
+      "description": "法式慵懒场景的 AI 女装图片提示词，适合女装店、小红书图文、电商主图和穿搭博主生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版构图，8K超高清、Ultra HD、电影级质感，细节拉满、无噪点、高锐度、色彩饱和高级。冷白皮女生，深棕色长发配轻薄空气刘海，部分发丝垂于脸颊两侧。左手举白色手机挡脸自拍，右手自然下垂，身着参考图1的衣服和鞋子，材质、细节、搭配与参考图1完全一致。 近景为带有清晰防滑纹理的浅灰色菱形防滑金属平台，地面上人物影子清晰；身前是由等距竖杆和横杆组成的白色金属护栏。中景是带黄色实线的深灰色柏油公路，公路边缘有低矮混凝土护栏，右侧有几棵枝叶茂密的深绿色常绿针叶树。远景是由近及远渐变蓝的广阔蓝色海面，海面远处有模糊小岛轮廓，天空为几乎无云的清澈淡蓝色。整体光线充足、明亮且通透。",
+      "tags": [
+        "AI 女装",
+        "女装",
+        "穿搭",
+        "女装店",
+        "小红书",
+        "电商主图",
+        "法式慵懒",
+        "自拍"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-030",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-030/0-v2.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-030/0-v2.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-tongzhuang-tishici-template-01",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-tongzhuang-tishici",
+      "title": "童装店对镜自拍",
+      "scenario": "童装上新、短视频封面、店铺氛围图。",
+      "prompt": "生成一张 9:16 童装店对镜自拍风格图片，儿童模特穿着[童装款式]，颜色为[颜色]，服装完整可见。场景是明亮干净的童装店，有落地镜、儿童衣架、同款服装陈列和暖光灯。动作自然安全，表情轻松，重点展示衣服版型、面料和搭配。不要成人化姿势，不要夸张妆容，不要随机品牌 logo、乱码文字或多余人物。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+    },
+    {
+      "id": "ai-tongzhuang-tishici-template-02",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-tongzhuang-tishici",
+      "title": "女童甜美穿搭",
+      "scenario": "裙装、开衫、套装、小红书亲子笔记。",
+      "prompt": "生成一张 3:4 女童甜美穿搭图，儿童穿着[服装款式]，搭配[鞋子/配饰]，场景为浅色室内或公园草地。光线柔和，表情自然，动作是站立、走路或轻扶帽檐。服装细节清楚，年龄感自然健康。不要成人化审美，不要浓妆，不要高跟鞋，不要夸张摆拍。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+    },
+    {
+      "id": "ai-tongzhuang-tishici-template-03",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-tongzhuang-tishici",
+      "title": "男童日常穿搭",
+      "scenario": "卫衣、衬衫、牛仔裤、运动套装。",
+      "prompt": "生成一张男童日常穿搭图片，画幅 4:5，儿童穿着[上衣]搭配[下装]，场景为校园门口、街角或儿童房。动作自然，比如背书包、走路或坐在台阶上。光线明亮，画面真实清爽，突出面料、颜色、裤型和鞋子搭配。不要让身体比例失真，不要添加奇怪玩具或无关文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+    },
+    {
+      "id": "ai-tongzhuang-tishici-template-04",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-tongzhuang-tishici",
+      "title": "童装电商白底图",
+      "scenario": "商品列表、SKU 展示、独立站产品页。",
+      "prompt": "生成一张 1:1 童装电商白底图，主体是一套[童装款式]，可以平铺展示或由儿童模特自然站立展示。背景纯白，柔和棚拍光，服装完整可见，边缘清楚，颜色真实。不要添加道具、随机文字、水印、成人配饰或夸张广告元素。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+    },
+    {
+      "id": "ai-tongzhuang-tishici-template-05",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-tongzhuang-tishici",
+      "title": "亲子穿搭",
+      "scenario": "亲子装、家庭节日照、品牌系列图。",
+      "prompt": "生成一张亲子穿搭图，成人和儿童穿着同色系[亲子装款式]，场景为明亮客厅、公园或海边步道。动作自然互动，比如牵手走路、并肩站立或一起看向镜头。服装风格统一，画面温暖真实。不要改变年龄感，不要让人物五官变形，不要添加无关路人或品牌文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+    },
+    {
+      "id": "ai-tongzhuang-tishici-template-06",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-tongzhuang-tishici",
+      "title": "童装新年国风",
+      "scenario": "新年款、拜年服、国风童装上新。",
+      "prompt": "生成一张童装新年国风图，儿童穿着[国风童装款式]，颜色为[红色/米色/金色等]，包含盘扣、刺绣或立领细节。场景为温暖年味室内、灯笼、窗花和简洁年货装饰。表情自然可爱，画面喜庆但不杂乱。不要堆满装饰，不要添加随机祝福文字或假品牌。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+    },
+    {
+      "id": "ai-tongzhuang-tishici-template-07",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-tongzhuang-tishici",
+      "title": "童装户外运动",
+      "scenario": "运动套装、防晒衣、冲锋衣、童鞋。",
+      "prompt": "生成一张儿童户外运动穿搭图，儿童穿着[运动童装款式]，场景为公园跑道、露营地或城市广场。动作安全自然，比如慢跑、跳跃落地前一刻或整理背包。光线清爽，服装面料、拉链、口袋和鞋子细节清楚。不要危险动作，不要极限运动，不要模糊服装主体。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+    },
+    {
+      "id": "ai-tongzhuang-tishici-template-08",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-tongzhuang-tishici",
+      "title": "童装面料细节",
+      "scenario": "详情页展示棉、针织、牛仔、羽绒等材质。",
+      "prompt": "生成一张童装面料细节图，主体是[面料/工艺]，展示缝线、织纹、纽扣、拉链或刺绣。使用柔和微距光线和干净背景，质感真实，适合商品详情页。不要加入儿童身体特写，不要出现品牌标签乱码，不要过度锐化。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+    },
+    {
+      "id": "ai-tongzhuang-tishici-template-09",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-tongzhuang-tishici",
+      "title": "儿童摄影棚拍",
+      "scenario": "童装品牌 lookbook、系列主视觉。",
+      "prompt": "生成一张儿童童装棚拍图，儿童模特穿着[服装系列]，站在浅色无缝背景前，柔和棚拍光，自然接触阴影。动作轻松，服装完整展示，整体像品牌 lookbook。保持儿童真实年龄感和健康气质，不要成人化造型，不要浓妆，不要复杂道具。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+    },
+    {
+      "id": "ai-tongzhuang-tishici-template-10",
+      "type": "template",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-tongzhuang-tishici",
+      "title": "童装换款参考图编辑",
+      "scenario": "上传儿童参考图后替换服装款式。",
+      "prompt": "基于上传参考图生成新图，保持儿童身份、脸型、发型、年龄感、姿势和背景光线基本不变，只把服装替换为[新童装款式]，颜色为[颜色]，材质为[面料]。服装要贴合原姿势并保持自然褶皱。不要改变儿童五官，不要成人化，不要添加随机 logo、水印或多余配饰。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+    },
+    {
+      "id": "ai-kids-fashion-001",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-001",
+      "title": "男童穿搭 AI 童装提示词 1",
+      "description": "男童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版，8K超高清，儿童穿搭实拍风，电商展示图质感，暖调自然光，细节清晰。 5岁男童模特，圆脸蛋带健康红晕，利落的黑色短发，眼神明亮带笑意，站在简约的浅灰背景墙前。 【【参考图】】。 男童摆出轻松姿势：一手插裤兜，一手自然搭在身侧，身体微微转向镜头，T恤的红色衬得肤色更显活力，裤子的黑色与上衣形成鲜明对比。背景仅点缀一盆绿色小盆栽，突出服装主体，光线均匀打在衣物上，清晰展现面料质感与图案细节，整体氛围阳光正气，完美呈现“中国少年”主题童装的上身效果。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "男童穿搭",
+        "男童"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-001",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-001/0.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-001/0.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-002",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-002",
+      "title": "童装对镜自拍 AI 童装提示词 1",
+      "description": "童装对镜自拍场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：8岁中国小男孩，发型是深棕自然卷短发（发丝蓬松微乱，带有随性毛躁感，手持黑色苹果手机对镜自拍（手机遮挡面部），动作活泼可爱，穿着参考第1张图片的服饰鞋帽和搭配，孩童体态真实自然，姿势可爱活泼，身处现代轻奢风客厅，奶油色墙面，浅灰色大尺寸哑光瓷砖地面，黑色复古电视柜，柜上摆放黑胶唱片、小型圣诞树和潮玩摆件。墙面投影着黑胶唱片图案和英文“Love is a gentle melody”。右侧是白色纱帘，顶部有嵌入式灯带，左侧露出米白色沙发一角。整体光线柔和，氛围温馨，细节精致，8K高清，写实摄影风格。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "童装对镜自拍",
+        "男童",
+        "对镜自拍"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-002",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-002/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-002/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-003",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-003",
+      "title": "女童穿搭 AI 童装提示词 1",
+      "description": "女童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "9:16竖版，8K超高清，韩系松弛感AI女童装上身效果图，画面柔和，细节拉满，无噪点，色彩饱和且高级，呈现杂志级质感。 一位可爱的AI女童装模特，有着白皙的肌肤，粉扑扑的脸颊，灵动的大眼睛闪烁着光芒，齐肩的浅棕色头发自然微卷，柔顺地搭在肩膀上，气质清新甜美。 【【上身穿着淡蓝色宽松短袖衬衫，轻薄棉质面料，表面布满细腻斜纹肌理，袖口精心挽起，露出自然形成的褶皱，领口微微敞开两颗纽扣，随性又俏皮 】】；【【下身搭配米白色高腰阔腿亚麻裤，裤身垂坠感十足，裤脚微喇设计，裤腰处系着精致的同色系细腰带，打成一个慵懒的蝴蝶结 】】；脚上蹬着【【一双白色平底凉鞋】】，鞋面采用柔软皮革材质，交叉绑带设计，鞋带边缘略带毛边，鞋底防滑纹理清晰可见 。 模特站在布置温馨的场景中，脚下是米白色地毯，身后是淡蓝色的墙面，墙边摆放着一些可爱的儿童玩具，如粉色的小熊玩偶、彩色积木等。一本半摊开的儿童时尚杂志放在一旁，杂志封面色彩活泼，与服饰色调相呼应，露出的内页有童趣满满的韩系穿搭插画。 画面上方，是温柔简约的“OOTD”艺术字标题，字体线条流畅，颜色为淡淡的奶油黄色，与整体韩系风格相得益彰。主光源从画面左上方柔和洒落，均匀照亮模特，清晰展现服饰的纹理与质感，阴影过渡自然；辅光从右下方微微补充，避免暗部过于暗沉，营造出充满生活气息与高级感的氛围。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "女童穿搭",
+        "女童"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-003",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-003/0.png",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-003/0.png"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-004",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-004",
+      "title": "女童穿搭 AI 童装提示词 2",
+      "description": "女童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "8K超高清，写实摄影，自然光光影，氛围感拉满，一个灵动的中国小女孩，6岁左右，精致五官，大眼睛樱桃唇，冷白皮肤白皙皮肤，扎高马尾脏脏辫，头戴同颜色运动头巾，小女孩穿第1张图片同款套装衣服，务必保持衣服的款式，颜色不变，质量细节不变，带银色挂脖耳机，手拿咖啡杯，微笑展示全身，站在春天柏油街道，背景是黑色奔驰G级越野车、斑马线和白色建筑，整体画面色彩浓郁，动态感十足，人物主体清晰，背景虚化自然。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "女童穿搭",
+        "女童",
+        "柏油路"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-004",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-004/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-004/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-005",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-005",
+      "title": "女童穿搭 AI 童装提示词 3",
+      "description": "女童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：将图中的童装套装（衣服款式细节保持不变，斜挎背着小包包，内搭黑色短t恤，戴上帽子）替换成8岁左右超萌的中国小女孩，圆圆的脸蛋，大眼睛自然双眼皮，樱桃小嘴浅粉色唇色，冷白皮，深棕色中长发，自然微卷，在侧逆光下显得蓬松有光泽，部分发丝被风吹起，脸上带着黑色墨镜，小女孩张嘴笑容灿烂，眼神明亮，充满了天真烂漫的活力。带有甜美可爱的妆容，发型整体看起来轻盈又灵动，人物真实，模样可爱，姿态休闲随性帅气，加上包包，人物拿着时尚杂志做出抬手的动作，人物占图中间，能看到衣服全身。背景改为户外黑色沥青路面，右后有白色墙面黑色窗框的咖啡厅，边上有好看绿植，中景全身照，人物居中，上下左右留有环境位置，还可以看落地窗外街边的美景，人物主体清晰，背景虚化自然，高清写实，画质8K，CCD拍摄风格。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "女童穿搭",
+        "女童",
+        "柏油路"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-005",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-005/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-005/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-006",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-006",
+      "title": "女童穿搭 AI 童装提示词 4",
+      "description": "女童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "小女孩皮肤白皙，穿着参考图同款服饰和搭配，灵动的双眼皮大眼睛，樱桃小嘴，鹅蛋脸肉肉脸蛋，高挺鼻梁带着甜美笑容，冷白皮，五官精致秀丽，一头柔顺长发编成蓬松麻花辫垂在胸前，戴着衣服同色系发箍，阳光照在身上发丝发光，整体可可爱爱。背景是户外干净有光线的沥青路面，左侧有包含粉色、白色、紫色花朵的花束放在容器中，左上角有粉色气球，小女孩拿着白色风车，做出歪头微笑提着裙摆的俏皮动作，中景全身照，人物居中，上下左右留有环境位置，8k高清画质。比例9:16。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "女童穿搭",
+        "女童",
+        "柏油路"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-006",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-006/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-006/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-007",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-007",
+      "title": "女童穿搭 AI 童装提示词 5",
+      "description": "女童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：将第1张图片的白色娃娃领上衣和藏蓝色短裙穿搭在中国6岁女孩身上，女孩大眼睛双眼皮，眼神楚楚动人，高挺的鼻梁，冷白皮的肌肤，五官极为精致，甜美可爱。妆容为甜系，腮红为淡粉色自然过渡，裸粉色唇妆，呈现自然水润光泽感，唇形饱满柔和皮肤很白，头发黑棕色长发，有点凌乱的披着，阳光照在发丝上，风吹头发，发丝灵动，头发要柔顺丝滑有光泽，脚上穿着原图的黑色皮鞋和灰色长筒袜，衣服细节、颜色、款式不变。女孩嘴巴张大露出牙齿大笑，斜挎着彩色编织包摆姿势，充满活力。画面采用CCD拍摄风格，背景是户外晴朗白天深灰色哑光沥青路面，质地平整干净，无明显杂物与纹理，哑光低调不反光，色泽均匀柔和，整体冷调简约，人物靠近正中间，右侧是一张银色折叠椅，椅子上放着一只淡薄荷绿色圆筒花桶，桶身印着浅金色的装饰文字，桶内插着粉白渐变的玫瑰花（搭配尤加利叶点缀），花桶中有一只同色系的淡薄荷绿毛绒小熊玩偶（小熊戴着细蝴蝶结）。花桶上方飘着两只淡薄荷绿气球，一只仅露上半圆身在最右上角的角落，绳端自然垂落在桌面上，气球只露出来一点。整体环境明亮有氛围感，模特脸部打光呈现饱满状态，画质8K超高清。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "女童穿搭",
+        "女童",
+        "柏油路"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-007",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-007/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-007/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-008",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-008",
+      "title": "女童穿搭 AI 童装提示词 6",
+      "description": "女童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "一个8岁真实女孩，黑棕色韩系微卷长发，长发被风吹得微微飘逸飞扬感；发丝光泽，带同色系发卡，冷白皮，皮肤白皙细腻，粉嘟嘟的小嘴，长相漂亮。鹅蛋脸，眼睛炯炯有神，非常好看，非常漂亮。神态放松惬意，手里拿着时尚杂志。穿搭：她穿着图中服饰上衣和裙子，搭配白色公主袜，棕色勃肯鞋，保证穿搭衣服细节和图中一模一样。背景是深黑色柏油路街道、斑马线，有侧光影打在人物脸上，采用暖色调光线拍摄，地面也有一点点光影。人物不看镜头，动作浮夸可爱，远景全身照，超广角拍摄角度，人物高一点，高冷清冷感，模糊写实风格，真实写真模糊感滤镜风格，8K超清，人物居中，在镜头里随意走动开怀大笑。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "女童穿搭",
+        "女童",
+        "柏油路"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-008",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-008/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-008/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-009",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-009",
+      "title": "幼儿童装 AI 童装提示词 1",
+      "description": "幼儿童装场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "将第1张图片中的套装穿搭穿在8小女孩身上，小女孩背着图片中的同款宝宝，小女孩皮肤白皙，灵动的双眼皮大眼睛，樱桃小嘴，鹅蛋脸肉肉的脸蛋，高挺鼻梁带着甜美笑容，冷白皮，五官精致，长发，高马尾，发尾微卷，阳光照在身上发丝发光。背景是户外干净有光线的沥青路面，左侧有包含粉红花朵的花束放在容器中，左上角有粉白气球，小女孩开心大笑比耶动作，脚穿红色带白色条纹德训鞋，整体气质甜美又带点小俏皮，站姿自信又松弛。中景全身照，人物居中，上下左右留有环境位置，还可以看到停在路边的吉普车，人物主体清晰，背景虚化自然，8k高清画质，原比例，比例 9:16。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "幼儿童装",
+        "女童",
+        "幼儿",
+        "柏油路"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-009",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-009/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-009/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-010",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-010",
+      "title": "童装对镜自拍 AI 童装提示词 2",
+      "description": "童装对镜自拍场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：将第1张图片里的黑色上衣穿在一个5岁男孩身上，搭配韩版浅色宽松牛仔裤，保持上图上衣的款式颜色不变，细节不变，男孩面部五官精致，冷白皮，双眼皮大眼睛，大长腿，眼神明亮有神。左手拿着米白色苹果手机自拍挡着脸。背景是现代轻奢风买手店室内场景，深灰色哑光墙面搭配嵌入式暖光射灯，形成柔和的洗墙光效。左侧是黑色金属衣架，挂满图片同款服装。右侧是深灰色云朵造型毛绒沙发，上面摆放时尚杂志。沙发后方的黑色台面，依次摆放着黑色花瓶与干花枝装饰、苹果电脑、银色熊摆件。浅木色纹理地面，背景墙投射着柔和的音乐界面投影，男孩站姿略有变化，整体氛围高级又充满氛围感，写实风格，细节丰富，8k高清。比例 9:16。人物居中。比例 9:16。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "童装对镜自拍",
+        "男童",
+        "对镜自拍"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-010",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-010/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-010/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-011",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-011",
+      "title": "童装静物展示 AI 童装提示词 1",
+      "description": "童装静物展示场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：将背景改为带有黑色雕花壁炉（壁炉上放着黑色台灯和玻璃罩干花）、白色软包扶手椅、黑白格纹收纳箱（箱子上有Hello Kitty毛绒玩具）的空间，地面是灰色木纹地板，还有深色拱形门洞，整体风格时尚俏皮，融合复古与可爱元素；小男孩在室内椭圆形黑边质感镜子前自拍。比例 9:16。比例 9:16。比例 9:16。中景全身。比例 9:16。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "童装静物展示",
+        "男童",
+        "对镜自拍",
+        "礼盒展示"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-011",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-011/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-011/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-012",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-012",
+      "title": "女童穿搭 AI 童装提示词 7",
+      "description": "女童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "将第1张图片里的衣服套装鞋子穿在4岁女孩身上，女孩是冷白皮，双眼皮，大眼睛明亮有神，皮肤细腻白皙，瓜子脸，甜美可爱的妆容，保留图中发型，额头有一些碎发随意飘起，几缕发丝微微挡在脸前，发型整体看起来轻盈又灵动，人物真实可爱，弯腰姿态，古灵精怪开怀大笑，背景是户外深黑色沥青路面，画面一角模糊看到一辆黑色高档越野车车尾，带有光影效果，女孩一手抱着一束黑色英文报纸包装的香槟色玫瑰，全身远景图，可以看到鞋子。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "女童穿搭",
+        "女童",
+        "柏油路"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-012",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-012/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-012/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-013",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-013",
+      "title": "男童穿搭 AI 童装提示词 2",
+      "description": "男童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：将图片中的服装穿在一个6岁可爱帅气的小男孩身上，男孩皮肤白皙，黑棕色卷发，五官精致，搭配黑色工装裤和黑色马丁靴，姿态放松地坐在黑色皮质软包座椅上，手里拿着书看着，一条腿搭在另一条腿上，身旁是黑色圆形边几，桌上摆放白色花瓶（插着白玫瑰）、银色暴力熊潮玩摆件，落地窗外是被白雪覆盖的冬日村落，原木色木屋、积雪道路与挺拔雪松相映，雪花飘洒，柔和室内自然光从落地窗侧方打在人物身上，面部与服装光影过渡自然，主色调为黑、白、米白低饱和配色，搭配白玫瑰纯白、暴力熊银灰及咖啡杯浅棕，中景构图，人物占据画面核心位置，坐姿舒展，身体微微前倾，画面真实高清有质感。比例 2:3。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "男童穿搭",
+        "男童"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-013",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-013/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-013/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-014",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-014",
+      "title": "童装店展示 AI 童装提示词 1",
+      "description": "童装店展示场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "基于参考图片，8K超高清，写实摄影，自然光光影，氛围感拉满，一个灵动的3岁中国小女孩。 卷发长发，发丝清晰，瓜子脸，大眼睛双眼皮，冷白皮，面容清秀甜美，身着原图套装，搭配灰色夏季小腿袜。去掉银色包包。表情灿烂明媚。人物抱着一捧包装精致的报纸花 站在春天柏油街道，背景是柏油路和白色建筑，带咖啡店铺窗口，可见桌椅、室内灯光，一辆装满花篮的自行车靠在墙边，整体画面色彩浓郁，小女孩微微侧身，动态感十足，人物主体清晰，背景虚化自然，人物居中",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "童装店展示",
+        "女童",
+        "柏油路",
+        "童装店"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-014",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-014/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-014/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-016",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-016",
+      "title": "男童穿搭 AI 童装提示词 3",
+      "description": "男童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：10岁左右东亚男孩，五官精致，发型为黑色侧分短发（一侧剃短做渐变处理，顶部发丝蓬松有型），身穿参考图同款穿搭，衣服材质细节搭配均与参考度完全一致；男孩侧身倚靠在黑色金属边框的哑光烤漆储物柜上，左手搭在柜面，右手持时尚杂志翻阅，头部微低目光看向杂志，单腿屈膝踮脚、另一腿伸直，姿态慵懒随性；背景是浅灰色哑光墙面（印有浅灰色英文字样与韩文），左侧是落地玻璃窗，窗外可见积雪覆盖的地面与城市建筑，柜面摆放黑色暴力熊潮玩摆件；整体画面为冷调高级灰配色，光影是室内柔和冷光+窗外自然散射光，画质为8K超高清实拍质感，构图为全身人像（人物占画面主体），风格是韩系潮童时尚写真，细节拉满，服装纹理、金属配饰、大理石地面质感均像素级还原。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "男童穿搭",
+        "男童"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-016",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-016/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-016/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-017",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-017",
+      "title": "女童穿搭 AI 童装提示词 9",
+      "description": "女童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：2:3，8K超高清，4岁东亚圆脸蛋小女孩，黑棕色长发，大眼睛双眼皮，皮肤白皙透亮，身穿参考图片中的套装和鞋子。双脚踩在原木色滑板（灰色防滑砂纸+米白PU轮）上，双臂向两侧微抬保持平衡，身体微微倾斜歪头，姿态俏皮欢快，传递出户外滑板滑行的动感与活力。户外柏油路面场景，地面是深灰色柏油路面（干净平整），整体氛围是清新欢快的户外嬉戏场景。午后暖金色侧逆光，头发边缘金色轮廓光，滑板车塑料+金属质感，面部光线柔和无阴影，户外清新欢快氛围，中景全身动态构图，浅景深（背景虚化）人物居中，一套穿搭生成一张图片。比例 9:16。比例 9:16。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "女童穿搭",
+        "女童",
+        "柏油路"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-017",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-017/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-017/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-018",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-018",
+      "title": "女童穿搭 AI 童装提示词 10",
+      "description": "女童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：人物形象参考第2张图片，服装搭配参考第1张图片，春日晴朗午后的户外草地边缘，女孩托腮微笑，半身景，8K超高清，真实CCD摄影风格，明亮氛围感。原比例。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "女童穿搭",
+        "女童"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-018",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-018/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-018/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-019",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-019",
+      "title": "童装店展示 AI 童装提示词 2",
+      "description": "童装店展示场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "8K超写实，高清写真，电影质感，柔和的店内暖光，一位6-8岁的东亚小女孩，冷白皮，大眼睛，高马尾，温柔微笑，站在现代简约风格的服装店内。她穿着参考图同款服饰和搭配。\n她的左手拿着一个木质衣架，衣架上挂着一件与她身上完全同款的服饰，衣架上的服饰高度和模特身上穿的服饰高度处于同一水平线上。 \n背景是店内的白色前台，上面摆放着电脑、招财猫摆件和小型圣诞树；右侧是落地玻璃橱窗，能看到店外的现代街道和“VAREOLI”服装店；地面是浅灰色大尺寸瓷砖，整体氛围清新、元气、充满高级感。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "童装店展示",
+        "女童",
+        "柏油路",
+        "童装店"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-019",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-019/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-019/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-020",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-020",
+      "title": "童装店展示 AI 童装提示词 3",
+      "description": "童装店展示场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "帮我生成图片：8K超写实，高清写真，电影质感，柔和的店内灯光，一位6-8岁的东亚小女孩，冷白皮，大眼睛，高马尾，甜美微笑，站在现代风格的服装店内部。她穿着参考图同款服饰和搭配。\n \n背景是店内的黑色展示柜，上面摆放着插有红白玫瑰的白色花桶，上方挂着一整排完全一样的参考图同款童装，颜色细节和图案与参考图完全一致；右侧是落地玻璃橱窗，能看到店外的现代都市街道和玻璃幕墙建筑；地面是深灰色大理石地砖，整体氛围时尚、精致、充满高级感。比例 9:16。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "童装店展示",
+        "女童",
+        "柏油路",
+        "童装店"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-020",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-020/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-020/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-021",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-021",
+      "title": "幼儿童装 AI 童装提示词 2",
+      "description": "幼儿童装场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "超写实摄影，俯拍视角，一位可爱的东亚女婴躺在柔软的浅米色和浅棕色拼接的婴儿垫上，女婴有着浓密的黑色卷发，额前留着齐刘海，头上别着一个淡紫色小发夹。她穿着参考图同款服饰和搭配，搭配白色中筒袜。她睁着大大的黑眼睛，直视镜头，表情可爱。背景是浅米色的柔软织物，周围散落着白色蕾丝玩偶、白色毛绒小熊、浅灰色布艺兔子、珍珠项链、粉色和白色的仿真花束，以及一本翻开的书。上方有一块印有“you are adorable my baby”字样的米色靠垫。光线柔和明亮，画质4K高清，细节丰富，电影质感，温馨治愈的氛围。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "幼儿童装",
+        "幼儿"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-021",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-021/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-021/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-022",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-022",
+      "title": "幼儿童装 AI 童装提示词 3",
+      "description": "幼儿童装场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "超写实亲子摄影，中景，画面右侧成年东亚男性仅露出下半张脸与黑色长袖手臂，双手从女婴腋下及大腿下方稳稳托住她，使女婴的服装完全无遮挡。核心主体是笑容灿烂的东亚女婴，拥有冷白皮，浓密黑色短卷发，头顶别浅蓝色蝴蝶结发夹，张着嘴巴露出开心神情，大眼睛直视镜头。女婴穿参考图同款服适合搭配。背景为纯净浅米色墙面，极简干净。光线柔和均匀，自然光质感，画质8K高清，皮肤纹理清晰，色彩清新柔和，温馨治愈氛围，商业儿童写真质感，细节拉满。",
+      "tags": ["AI 童装", "童装", "儿童穿搭", "小红书", "电商主图", "幼儿童装"],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-022",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-022/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-022/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-023",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-023",
+      "title": "女童穿搭 AI 童装提示词 11",
+      "description": "女童穿搭场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "帮我把图中的套装，穿在4岁小女孩身上，女孩摆出活泼自然的动作，黑色沥青马路，旁边桶里装着浅色鲜花和气球，高清8K。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "女童穿搭",
+        "女童",
+        "柏油路"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-023",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-023/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-023/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-024",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-024",
+      "title": "童装静物展示 AI 童装提示词 2",
+      "description": "童装静物展示场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "9岁东亚小女孩，小女孩皮肤白皙，灵动的双眼皮大眼睛，犹如一汪清泉。樱桃小嘴迷人好看，鹅蛋脸，肉肉的脸蛋，皮肤纹理清晰，高挺鼻梁甜美笑容，冷白皮的肌肤，五官极为精致，轮廊显得格外秀丽，面容十分好看，长发，发尾微卷，背景为深色的水泥路，人物的左后方较远的距离，有个透明的塑料的折叠椅，板凳上有一大束的抱抱桶花束，花束很有层次感，抱抱桶里还有一只与衣服与衣服同色系的小熊，抱抱桶里还挂着两只在空中飘荡的气球，比例9：16",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "童装静物展示",
+        "女童",
+        "礼盒展示"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-024",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-024/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-024/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-kids-fashion-025",
+      "type": "example",
+      "language": "zh",
+      "category": "AI 童装",
+      "slug": "ai-kids-fashion-025",
+      "title": "童装店展示 AI 童装提示词 4",
+      "description": "童装店展示场景的 AI 童装图片提示词，适合童装店、小红书图文、电商主图和儿童穿搭内容生成 9:16 竖版氛围图。",
+      "prompt": "画质8K，CCD拍摄风格，伦勃朗光，明亮氛围感。将图1衣服穿在图2模特身上，中国10岁女孩，大眼睛双眼皮，睫毛清晰，眼神楚楚动人，高挺鼻梁，冷白皮，五官精致，甜系妆容，淡粉色腮红，裸粉色唇妆，丸子头搭配珍珠小发夹，碎发凌乱飘起。场景1：清新柔和童装店，深灰色哑光瓷砖地面，左侧白色柜台有银色苹果电脑，右侧落地窗户外是春日街景，有粉黄紫花朵，隔壁店铺黑色招牌和成衣。动作1：右手拿木质衣架挂同款衣服在胸下位置，左手搭肩头，开心笑面向镜头自然站立，人物居中，头脚上下留白一致。",
+      "tags": [
+        "AI 童装",
+        "童装",
+        "儿童穿搭",
+        "小红书",
+        "电商主图",
+        "童装店展示",
+        "女童",
+        "童装店"
+      ],
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-025",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-025/0.jpg",
+          "thumbnail": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-025/0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ecommerce-main-image-template-01",
+      "type": "template",
+      "language": "zh",
+      "category": "电商主图",
+      "slug": "ecommerce-main-image",
+      "title": "白底标准主图",
+      "scenario": "商品列表页、搜索结果页、SKU 展示。",
+      "prompt": "生成一张 1:1 电商白底主图，主体是[产品名称]，产品正面居中完整可见，保持真实形状、颜色、材质和包装比例。使用纯白背景、柔和棚拍光、自然接触阴影，边缘清晰。不要添加道具、手、假 logo、随机文字、水印或多余包装。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+    },
+    {
+      "id": "ecommerce-main-image-template-02",
+      "type": "template",
+      "language": "zh",
+      "category": "电商主图",
+      "slug": "ecommerce-main-image",
+      "title": "场景化产品主图",
+      "scenario": "提升点击率，用于首页推荐和广告素材。",
+      "prompt": "生成一张 4:5 场景化电商主图，主体是[产品名称]，放在[使用场景]中，产品占画面 60%，右侧保留干净留白。光线自然、质感真实、背景简洁不抢主体。保持产品结构、颜色和标签区域不变，不要添加随机文字或无关道具。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+    },
+    {
+      "id": "ecommerce-main-image-template-03",
+      "type": "template",
+      "language": "zh",
+      "category": "电商主图",
+      "slug": "ecommerce-main-image",
+      "title": "三卖点主图",
+      "scenario": "需要在图上表达 2-3 个核心卖点。",
+      "prompt": "生成一张 1:1 电商卖点主图，主体是[产品名称]，画面左侧展示产品，右侧放 3 个简短卖点图标区域。标题文字为“[主标题]”，卖点为“[卖点1]”“[卖点2]”“[卖点3]”。文字清晰可读，不要额外添加乱码、英文假字或水印。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+    },
+    {
+      "id": "ecommerce-main-image-template-04",
+      "type": "template",
+      "language": "zh",
+      "category": "电商主图",
+      "slug": "ecommerce-main-image",
+      "title": "套装组合主图",
+      "scenario": "多件套、礼盒、组合装商品。",
+      "prompt": "生成一张电商套装组合主图，展示[产品A]、[产品B]、[产品C]和外包装盒，按前后层次自然摆放。背景为浅灰棚拍环境，整体干净高级，产品标签方向朝前。保持每个单品比例合理，不要让包装文字变形，不要增加不存在的配件。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+    },
+    {
+      "id": "ecommerce-main-image-template-05",
+      "type": "template",
+      "language": "zh",
+      "category": "电商主图",
+      "slug": "ecommerce-main-image",
+      "title": "节日促销主图",
+      "scenario": "大促、节日、限时优惠视觉。",
+      "prompt": "生成一张 4:5 节日促销电商主图，主体是[产品名称]，背景加入克制的[节日元素]，顶部标题为“[活动标题]”，底部保留价格和按钮位置。画面有促销氛围但不杂乱，产品真实清晰，不要添加夸张爆炸贴纸、乱码或假品牌。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+    },
+    {
+      "id": "ecommerce-main-image-template-06",
+      "type": "template",
+      "language": "zh",
+      "category": "电商主图",
+      "slug": "ecommerce-main-image",
+      "title": "材质特写主图",
+      "scenario": "突出面料、金属、皮革、玻璃或食品质感。",
+      "prompt": "生成一张产品材质特写主图，主体是[产品名称]，镜头靠近但保持完整识别，突出[材质细节]。使用微距棚拍光、浅景深、真实纹理和自然阴影。不要过度磨皮、不要让产品形状弯曲，不要添加随机文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+    },
+    {
+      "id": "ecommerce-main-image-template-07",
+      "type": "template",
+      "language": "zh",
+      "category": "电商主图",
+      "slug": "ecommerce-main-image",
+      "title": "使用前后对比图",
+      "scenario": "清洁、收纳、美妆、工具类商品。",
+      "prompt": "生成一张左右对比电商主图，左侧是使用前的[问题场景]，右侧是使用[产品名称]后的整洁效果。中间用简洁分割线区分，产品在右侧清晰可见。标题为“[短标题]”。不要夸大效果，不要添加不可读小字或无关人物。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+    },
+    {
+      "id": "ecommerce-main-image-template-08",
+      "type": "template",
+      "language": "zh",
+      "category": "电商主图",
+      "slug": "ecommerce-main-image",
+      "title": "独立站首屏产品图",
+      "scenario": "Shopify、官网落地页首屏。",
+      "prompt": "生成一张 16:9 独立站首屏产品视觉，主体是[产品名称]，位于画面右侧，左侧保留大面积文案留白。背景为[品牌色]渐变到浅色实景台面，光线柔和，产品边缘清楚。不要在图中生成长段文字，只保留干净视觉空间。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+    },
+    {
+      "id": "ecommerce-main-image-template-09",
+      "type": "template",
+      "language": "zh",
+      "category": "电商主图",
+      "slug": "ecommerce-main-image",
+      "title": "详情页首屏图",
+      "scenario": "商品详情页开头，展示产品和核心场景。",
+      "prompt": "生成一张电商详情页首屏图，画幅 3:2，主体是[产品名称]，展示在[核心使用场景]中，旁边有 2 个简洁功能标注区域。整体真实、干净、有高级感。保持产品颜色和结构准确，不要添加随机商标、人物手部或复杂背景。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+    },
+    {
+      "id": "ecommerce-main-image-template-10",
+      "type": "template",
+      "language": "zh",
+      "category": "电商主图",
+      "slug": "ecommerce-main-image",
+      "title": "广告投放主图",
+      "scenario": "信息流广告、搜索广告、社媒投放。",
+      "prompt": "生成一张适合广告投放的产品主图，主体是[产品名称]，构图强对比，背景简洁，顶部保留短标题“[广告语]”，下方保留按钮区域。产品占画面中心，质感真实，色彩清晰。不要出现虚假认证标识、乱码、水印或夸张承诺。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+    },
+    {
+      "id": "product-photo-template-01",
+      "type": "template",
+      "language": "zh",
+      "category": "产品摄影",
+      "slug": "product-photo",
+      "title": "高级棚拍",
+      "scenario": "官网、详情页、品牌视觉。",
+      "prompt": "生成一张高级棚拍产品照片，主体是[产品名称]，放在[台面材质]上，背景为[背景颜色]。使用柔和主光、清晰边缘光和自然接触阴影，产品居中完整可见。保持真实形状和材质，不要添加随机文字、水印或手。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+    },
+    {
+      "id": "product-photo-template-02",
+      "type": "template",
+      "language": "zh",
+      "category": "产品摄影",
+      "slug": "product-photo",
+      "title": "生活方式产品图",
+      "scenario": "独立站、社媒、广告图。",
+      "prompt": "生成一张生活方式产品摄影图，主体是[产品名称]，出现在[使用场景]，周围有少量相关道具但不抢主体。光线自然，画面真实温暖，右侧保留文案留白。保持产品结构和颜色准确，不要添加无关人物。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+    },
+    {
+      "id": "product-photo-template-03",
+      "type": "template",
+      "language": "zh",
+      "category": "产品摄影",
+      "slug": "product-photo",
+      "title": "悬浮产品图",
+      "scenario": "科技、美妆、饮品广告。",
+      "prompt": "生成一张悬浮产品广告摄影图，主体是[产品名称]，悬浮在简洁背景中，周围有[元素]点缀。使用高质感商业灯光和清晰阴影，产品标签朝前。不要让产品弯曲，不要添加随机 logo 或乱码文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+    },
+    {
+      "id": "product-photo-template-04",
+      "type": "template",
+      "language": "zh",
+      "category": "产品摄影",
+      "slug": "product-photo",
+      "title": "材质微距",
+      "scenario": "强调面料、纹理、金属、食品质感。",
+      "prompt": "生成一张产品材质微距照片，主体是[产品名称]的[材质部位]，镜头近距离，浅景深，纹理真实清晰。背景简洁，光线柔和，适合详情页局部展示。不要过度锐化，不要改变材质颜色。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+    },
+    {
+      "id": "product-photo-template-05",
+      "type": "template",
+      "language": "zh",
+      "category": "产品摄影",
+      "slug": "product-photo",
+      "title": "透明材质摄影",
+      "scenario": "玻璃杯、香水、护肤瓶、亚克力。",
+      "prompt": "生成一张透明材质产品摄影图，主体是[产品名称]，放在浅色台面上，使用背光和柔和反射突出透明质感。背景干净，边缘清晰，阴影自然。不要让瓶身变形，不要添加错误标签文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+    },
+    {
+      "id": "product-photo-template-06",
+      "type": "template",
+      "language": "zh",
+      "category": "产品摄影",
+      "slug": "product-photo",
+      "title": "食品产品摄影",
+      "scenario": "餐饮、电商食品、菜单图。",
+      "prompt": "生成一张食品产品摄影图，主体是[食品名称]，角度为 45 度或俯拍，食物新鲜真实，有自然油光和质感。背景为干净餐桌，少量道具。不要过度饱和，不要添加不可食用装饰或随机文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+    },
+    {
+      "id": "product-photo-template-07",
+      "type": "template",
+      "language": "zh",
+      "category": "产品摄影",
+      "slug": "product-photo",
+      "title": "包装与产品同框",
+      "scenario": "详情页、礼盒、套装展示。",
+      "prompt": "生成一张产品与包装同框摄影图，展示[产品名称]和外包装盒，产品在前、包装在后，层次清楚。背景为浅灰棚拍，光线柔和，标签朝前可读。不要添加不存在的配件、假认证或二维码。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+    },
+    {
+      "id": "product-photo-template-08",
+      "type": "template",
+      "language": "zh",
+      "category": "产品摄影",
+      "slug": "product-photo",
+      "title": "户外场景产品图",
+      "scenario": "运动、露营、户外用品。",
+      "prompt": "生成一张户外场景产品摄影图，主体是[产品名称]，放在[户外场景]中，清晨或傍晚自然光，背景有空间层次。产品真实清楚，占画面中心。不要让环境遮挡产品，不要添加多余人物。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+    },
+    {
+      "id": "product-photo-template-09",
+      "type": "template",
+      "language": "zh",
+      "category": "产品摄影",
+      "slug": "product-photo",
+      "title": "社媒方形产品图",
+      "scenario": "Instagram、小红书、朋友圈。",
+      "prompt": "生成一张 1:1 社媒产品摄影图，主体是[产品名称]，背景为[颜色/材质]，整体干净有记忆点。产品占画面 65%，顶部留少量空间。不要在图中添加文字，避免水印、随机贴纸和复杂道具。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+    },
+    {
+      "id": "product-photo-template-10",
+      "type": "template",
+      "language": "zh",
+      "category": "产品摄影",
+      "slug": "product-photo",
+      "title": "官网首屏产品图",
+      "scenario": "官网 Hero、独立站、众筹页面。",
+      "prompt": "生成一张 16:9 官网首屏产品摄影图，主体是[产品名称]，位于画面右侧，左侧大面积留白。使用高级商业光线、真实反射和浅色背景，产品细节清楚。不要生成标题文字或按钮，让画面适合后期排版。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+    },
+    {
+      "id": "xiaohongshu-cover-template-01",
+      "type": "template",
+      "language": "zh",
+      "category": "小红书封面",
+      "slug": "xiaohongshu-cover",
+      "title": "种草笔记封面",
+      "scenario": "产品推荐、好物分享、开箱内容。",
+      "prompt": "生成一张 3:4 小红书种草封面，主体是[产品名称]，放在温暖自然的生活方式场景中。上方留出标题区域，标题文字为“[短标题]”，字体清晰、醒目但不过度夸张。画面明亮、真实、有分享感，不要添加乱码、水印或多余贴纸。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+    },
+    {
+      "id": "xiaohongshu-cover-template-02",
+      "type": "template",
+      "language": "zh",
+      "category": "小红书封面",
+      "slug": "xiaohongshu-cover",
+      "title": "教程类封面",
+      "scenario": "步骤教程、经验分享、干货内容。",
+      "prompt": "生成一张 3:4 小红书教程封面，主题是[教程主题]，画面包含简洁桌面、工具和结果预览。中间标题为“[教程标题]”，下方有 3 个小标签位置。整体干净、有秩序，文字不要超过 18 个中文字符，不要出现随机英文。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+    },
+    {
+      "id": "xiaohongshu-cover-template-03",
+      "type": "template",
+      "language": "zh",
+      "category": "小红书封面",
+      "slug": "xiaohongshu-cover",
+      "title": "前后对比封面",
+      "scenario": "改造、修图、收纳、护肤、穿搭前后对比。",
+      "prompt": "生成一张小红书前后对比封面，左右分栏展示[对比对象]的变化，左侧标注“Before”，右侧标注“After”。顶部中文标题为“[标题]”。画面明亮真实，差异清楚但不要夸张，不要添加多余人物或不可读小字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+    },
+    {
+      "id": "xiaohongshu-cover-template-04",
+      "type": "template",
+      "language": "zh",
+      "category": "小红书封面",
+      "slug": "xiaohongshu-cover",
+      "title": "合集清单封面",
+      "scenario": "好物合集、工具清单、模板合集。",
+      "prompt": "生成一张 3:4 小红书合集封面，展示 5 个[合集对象]，按网格或桌面平铺摆放。标题为“[合集标题]”，副标题为“[短副标题]”。风格清爽，背景浅色，物品之间留白充足，不要让文字压住主体。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+    },
+    {
+      "id": "xiaohongshu-cover-template-05",
+      "type": "template",
+      "language": "zh",
+      "category": "小红书封面",
+      "slug": "xiaohongshu-cover",
+      "title": "探店封面",
+      "scenario": "餐厅、咖啡店、展览、城市打卡。",
+      "prompt": "生成一张小红书探店封面，场景是[地点类型]，有自然光、真实空间层次和可打卡氛围。画面下方留出标题“[店名或主题]”。不要生成虚假地址、电话号码、二维码或具体商标，整体像真实手机拍摄但更精致。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+    },
+    {
+      "id": "xiaohongshu-cover-template-06",
+      "type": "template",
+      "language": "zh",
+      "category": "小红书封面",
+      "slug": "xiaohongshu-cover",
+      "title": "穿搭封面",
+      "scenario": "OOTD、风格搭配、单品推荐。",
+      "prompt": "生成一张 3:4 穿搭小红书封面，主体是[穿搭风格]人物全身照，背景为简洁街景或室内镜前。标题区域位于上方，文字为“[穿搭标题]”。人物比例自然、衣服细节清楚，不要多手指、怪异姿势或随机品牌 logo。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+    },
+    {
+      "id": "xiaohongshu-cover-template-07",
+      "type": "template",
+      "language": "zh",
+      "category": "小红书封面",
+      "slug": "xiaohongshu-cover",
+      "title": "知识卡片封面",
+      "scenario": "学习笔记、职场方法、AI 教程。",
+      "prompt": "生成一张知识类小红书封面，主题是[知识主题]，采用白底卡片式排版，包含大标题“[标题]”和 3 个简短要点。视觉简洁、字体清晰、层级明确。不要添加长段文字、二维码、水印或复杂背景。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+    },
+    {
+      "id": "xiaohongshu-cover-template-08",
+      "type": "template",
+      "language": "zh",
+      "category": "小红书封面",
+      "slug": "xiaohongshu-cover",
+      "title": "美食封面",
+      "scenario": "菜谱、餐厅推荐、零食测评。",
+      "prompt": "生成一张 3:4 小红书美食封面，主体是[美食名称]，俯拍或 45 度角，光线温暖，食物质感真实诱人。标题为“[短标题]”，放在不遮挡食物的位置。不要让颜色过度饱和，不要添加无关餐具和乱码文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+    },
+    {
+      "id": "xiaohongshu-cover-template-09",
+      "type": "template",
+      "language": "zh",
+      "category": "小红书封面",
+      "slug": "xiaohongshu-cover",
+      "title": "家居改造封面",
+      "scenario": "房间布置、收纳、软装分享。",
+      "prompt": "生成一张小红书家居改造封面，展示[空间类型]的温馨整洁效果，画面有自然光、浅色墙面和清晰动线。标题为“[改造标题]”。整体真实可参考，不要过度豪宅化，不要添加随机装饰文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+    },
+    {
+      "id": "xiaohongshu-cover-template-10",
+      "type": "template",
+      "language": "zh",
+      "category": "小红书封面",
+      "slug": "xiaohongshu-cover",
+      "title": "AI 工具推荐封面",
+      "scenario": "工具测评、AI 教程、效率技巧。",
+      "prompt": "生成一张小红书 AI 工具推荐封面，画面包含电脑屏幕、提示词输入框和生成图片预览，标题为“[标题]”。风格现代、清晰、有科技感但不过度炫光。不要使用官方品牌 logo，不要生成不可读界面小字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+    },
+    {
+      "id": "poster-design-template-01",
+      "type": "template",
+      "language": "zh",
+      "category": "广告海报",
+      "slug": "poster-design",
+      "title": "产品广告海报",
+      "scenario": "新品发布、品牌广告、投放素材。",
+      "prompt": "生成一张 4:5 产品广告海报，主体是[产品名称]，位于画面中心，背景为[场景/颜色]。顶部标题为“[标题]”，下方副标题为“[副标题]”。产品质感真实，文字清晰，留白充足。不要添加假 logo、水印、乱码或多余活动信息。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+    },
+    {
+      "id": "poster-design-template-02",
+      "type": "template",
+      "language": "zh",
+      "category": "广告海报",
+      "slug": "poster-design",
+      "title": "限时促销海报",
+      "scenario": "大促、优惠券、会员日。",
+      "prompt": "生成一张电商促销海报，主题是[活动名称]，主体产品为[产品名称]。标题文字为“[促销标题]”，画面下方保留价格和按钮区域但不要生成具体价格。风格热烈但高级，避免杂乱贴纸、夸张爆炸框和随机文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+    },
+    {
+      "id": "poster-design-template-03",
+      "type": "template",
+      "language": "zh",
+      "category": "广告海报",
+      "slug": "poster-design",
+      "title": "课程招生海报",
+      "scenario": "成人培训、线上课、公开课。",
+      "prompt": "生成一张课程招生海报，主题是[课程名称]，画面包含讲师或学习场景、清晰标题“[标题]”和 3 个卖点标签。整体专业可信，适合朋友圈和公众号。不要添加虚假证书、二维码、电话号码或不可读小字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+    },
+    {
+      "id": "poster-design-template-04",
+      "type": "template",
+      "language": "zh",
+      "category": "广告海报",
+      "slug": "poster-design",
+      "title": "线下活动海报",
+      "scenario": "沙龙、展览、市集、发布会。",
+      "prompt": "生成一张线下活动海报，主题为[活动主题]，画幅 3:4，主视觉为[主视觉元素]。标题为“[活动名]”，底部保留时间地点文字区域但不生成具体小字。风格现代、有空间感，不要添加随机地址或假赞助商。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+    },
+    {
+      "id": "poster-design-template-05",
+      "type": "template",
+      "language": "zh",
+      "category": "广告海报",
+      "slug": "poster-design",
+      "title": "品牌形象海报",
+      "scenario": "品牌升级、品牌理念、社媒传播。",
+      "prompt": "生成一张品牌形象海报，围绕[品牌关键词]，主色为[品牌色]，画面包含抽象材质、产品或人物剪影。标题为“[品牌主张]”。整体高级、克制、可用于官网和社媒，不要添加大量小字或无关图标。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+    },
+    {
+      "id": "poster-design-template-06",
+      "type": "template",
+      "language": "zh",
+      "category": "广告海报",
+      "slug": "poster-design",
+      "title": "节日海报",
+      "scenario": "春节、中秋、双旦、母亲节等节点。",
+      "prompt": "生成一张节日营销海报，主题是[节日名称]，主体为[产品/品牌元素]，加入克制的节日符号和温暖光线。标题为“[节日祝福或活动标题]”。不要过度堆砌装饰，不要添加虚假折扣或随机文字。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+    },
+    {
+      "id": "poster-design-template-07",
+      "type": "template",
+      "language": "zh",
+      "category": "广告海报",
+      "slug": "poster-design",
+      "title": "招聘海报",
+      "scenario": "团队招聘、校园招聘、岗位推广。",
+      "prompt": "生成一张现代招聘海报，主题为[岗位/团队]，画面包含工作空间或人物剪影，标题为“[招聘标题]”。下方留出岗位信息区域，不要生成具体薪资和联系方式。风格专业、清晰、可信，不要使用夸张表情和水印。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+    },
+    {
+      "id": "poster-design-template-08",
+      "type": "template",
+      "language": "zh",
+      "category": "广告海报",
+      "slug": "poster-design",
+      "title": "公益倡议海报",
+      "scenario": "环保、健康、安全、社区倡议。",
+      "prompt": "生成一张公益倡议海报，主题是[倡议主题]，主视觉为[象征元素]，标题为“[倡议标题]”。画面情绪真诚、克制，文字少而清楚，适合公众号和线下张贴。不要使用恐吓画面、虚假机构 logo 或乱码。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+    },
+    {
+      "id": "poster-design-template-09",
+      "type": "template",
+      "language": "zh",
+      "category": "广告海报",
+      "slug": "poster-design",
+      "title": "音乐演出海报",
+      "scenario": "演出、派对、Livehouse、播客活动。",
+      "prompt": "生成一张音乐演出海报，主题为[演出类型]，主视觉为舞台灯光和人物剪影，标题为“[演出名]”。使用强对比色和动感构图，底部留出阵容和时间区域。不要生成真实艺人姓名、二维码或假票务信息。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+    },
+    {
+      "id": "poster-design-template-10",
+      "type": "template",
+      "language": "zh",
+      "category": "广告海报",
+      "slug": "poster-design",
+      "title": "信息流广告海报",
+      "scenario": "社媒广告、短视频封面、投流创意。",
+      "prompt": "生成一张信息流广告海报，主体是[产品/服务]，3 秒内能看懂卖点。大标题为“[广告语]”，主体占画面 55%，背景干净有对比。不要添加长段文案、虚假承诺、随机按钮文字或水印。",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+    }
+  ]
+}
