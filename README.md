@@ -2,9 +2,9 @@
 
 一个面向 AI 图片生成和图片编辑的中文提示词精选库，覆盖女装、童装、电商主图、产品摄影、小红书封面和广告海报等常见创作场景。
 
-在线提示词库：https://gptimg2.art/zh/prompts/gpt-image-2
+在线提示词库：https://gptimg2.art/zh/prompts/gpt-image-2?utm_source=github
 
-在线生成器：https://gptimg2.art/zh/ai-image
+在线生成器：https://gptimg2.art/zh/ai-image?utm_source=github
 
 ## 预览图
 
