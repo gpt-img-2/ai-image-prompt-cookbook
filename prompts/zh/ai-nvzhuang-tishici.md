@@ -2,9 +2,9 @@
 
 适合女装店上新、小红书穿搭、淘宝主图、模特氛围图和服装设计测试，重点控制服装款式、面料、姿势、场景、光线和画幅。
 
-在线版：https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici
+在线版：https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=ai-nvzhuang-tishici
 
-生成器：https://gptimg2.art/zh/ai-image
+生成器：https://gptimg2.art/zh/ai-image?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=ai-nvzhuang-tishici
 
 ## 适合谁用
 

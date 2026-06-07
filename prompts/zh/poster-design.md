@@ -2,9 +2,9 @@
 
 用于促销活动、品牌广告、线下活动、课程招生和社媒投放，重点控制标题、主体层级、留白和文字可读性。
 
-在线版：https://gptimg2.art/zh/prompts/poster-design
+在线版：https://gptimg2.art/zh/prompts/poster-design?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=poster-design
 
-生成器：https://gptimg2.art/zh/ai-image
+生成器：https://gptimg2.art/zh/ai-image?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=poster-design
 
 ## 适合谁用
 

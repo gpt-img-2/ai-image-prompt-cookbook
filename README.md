@@ -2,9 +2,22 @@
 
 一个面向 AI 图片生成和图片编辑的中文提示词精选库，覆盖女装、童装、电商主图、产品摄影、小红书封面和广告海报等常见创作场景。
 
-在线提示词库：https://gptimg2.art/zh/prompts/gpt-image-2?utm_source=github
+在线提示词库：https://gptimg2.art/zh/prompts/gpt-image-2?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=readme
 
-在线生成器：https://gptimg2.art/zh/ai-image?utm_source=github
+在线生成器：https://gptimg2.art/zh/ai-image?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=readme
+
+## 多语言入口
+
+这些页面不是逐句翻译中文内容，而是按不同语言用户常见的说法整理入口、场景和改写建议。
+
+- [English](docs/languages/en.md): AI Image Prompt Cookbook for English Users
+- [日本語](docs/languages/ja.md): 日本語ユーザー向け AI 画像プロンプト集
+- [한국어](docs/languages/ko.md): 한국어 사용자를 위한 AI 이미지 프롬프트 모음
+- [Español](docs/languages/es.md): Recetario de prompts para imágenes con IA
+- [Tiếng Việt](docs/languages/vi.md): Sổ tay prompt tạo ảnh AI cho người dùng tiếng Việt
+- [Bahasa Melayu](docs/languages/ms.md): Buku prompt imej AI untuk pengguna Bahasa Melayu
+- [Українська](docs/languages/uk.md): Добірка промптів для AI-зображень українською
+- [Русский](docs/languages/ru.md): Подборка промптов для AI-изображений на русском
 
 ## 预览图
 

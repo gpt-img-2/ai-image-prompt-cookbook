@@ -2,9 +2,9 @@
 
 适合童装店上新、儿童穿搭、小红书内容、电商主图和亲子场景图，重点控制年龄感、服装款式、动作安全、场景真实和画面清爽度。
 
-在线版：https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici
+在线版：https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=ai-tongzhuang-tishici
 
-生成器：https://gptimg2.art/zh/ai-image
+生成器：https://gptimg2.art/zh/ai-image?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=ai-tongzhuang-tishici
 
 ## 适合谁用
 
