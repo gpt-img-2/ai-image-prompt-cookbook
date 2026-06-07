@@ -2,9 +2,9 @@
 
 用于淘宝、天猫、京东、拼多多和独立站商品展示，重点控制产品形状、背景、光线、卖点文字和平台画幅。
 
-在线版：https://gptimg2.art/zh/prompts/ecommerce-main-image
+在线版：https://gptimg2.art/zh/prompts/ecommerce-main-image?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=ecommerce-main-image
 
-生成器：https://gptimg2.art/zh/ai-image
+生成器：https://gptimg2.art/zh/ai-image?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=ecommerce-main-image
 
 ## 适合谁用
 
