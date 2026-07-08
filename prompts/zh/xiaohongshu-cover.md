@@ -2,9 +2,9 @@
 
 适合种草笔记、教程封面、合集封面和生活方式内容，重点控制 3:4 画幅、标题空间、点击感和中文文字清晰度。
 
-在线版：https://gptimg2.art/zh/prompts/xiaohongshu-cover?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=xiaohongshu-cover
+在线版：https://image3.org/zh/prompts/xiaohongshu-cover?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=xiaohongshu-cover
 
-生成器：https://gptimg2.art/zh/ai-image?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=xiaohongshu-cover
+生成器：https://image3.org/zh/ai-image?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=xiaohongshu-cover
 
 ## 适合谁用
 
