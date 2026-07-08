@@ -2,9 +2,9 @@
 
 用于棚拍、生活方式图、材质特写、广告图和官网首屏，重点控制镜头、光线、台面、阴影和产品准确性。
 
-在线版：https://gptimg2.art/zh/prompts/product-photo?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=product-photo
+在线版：https://image3.org/zh/prompts/product-photo?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=product-photo
 
-生成器：https://gptimg2.art/zh/ai-image?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=product-photo
+生成器：https://image3.org/zh/ai-image?utm_source=github&utm_medium=repo&utm_campaign=ai_image_prompt_cookbook&utm_content=product-photo
 
 ## 适合谁用
 
