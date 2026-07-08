@@ -6,7 +6,7 @@
       "title": "AI 女装提示词",
       "category": "AI 女装",
       "language": "zh",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici",
+      "sourceUrl": "https://image3.org/zh/prompts/ai-nvzhuang-tishici",
       "file": "prompts/zh/ai-nvzhuang-tishici.md",
       "promptCount": 40
     },
@@ -15,7 +15,7 @@
       "title": "AI 童装提示词",
       "category": "AI 童装",
       "language": "zh",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici",
+      "sourceUrl": "https://image3.org/zh/prompts/ai-tongzhuang-tishici",
       "file": "prompts/zh/ai-tongzhuang-tishici.md",
       "promptCount": 34
     },
@@ -24,7 +24,7 @@
       "title": "电商主图提示词",
       "category": "电商主图",
       "language": "zh",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image",
+      "sourceUrl": "https://image3.org/zh/prompts/ecommerce-main-image",
       "file": "prompts/zh/ecommerce-main-image.md",
       "promptCount": 10
     },
@@ -33,7 +33,7 @@
       "title": "产品摄影提示词",
       "category": "产品摄影",
       "language": "zh",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo",
+      "sourceUrl": "https://image3.org/zh/prompts/product-photo",
       "file": "prompts/zh/product-photo.md",
       "promptCount": 10
     },
@@ -42,7 +42,7 @@
       "title": "小红书封面提示词",
       "category": "小红书封面",
       "language": "zh",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover",
+      "sourceUrl": "https://image3.org/zh/prompts/xiaohongshu-cover",
       "file": "prompts/zh/xiaohongshu-cover.md",
       "promptCount": 10
     },
@@ -51,7 +51,7 @@
       "title": "广告海报提示词",
       "category": "广告海报",
       "language": "zh",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design",
+      "sourceUrl": "https://image3.org/zh/prompts/poster-design",
       "file": "prompts/zh/poster-design.md",
       "promptCount": 10
     }
