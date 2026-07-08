@@ -1,7 +1,7 @@
 {
   "name": "AI Image Prompt Cookbook",
   "language": "zh",
-  "sourceSite": "https://gptimg2.art",
+  "sourceSite": "https://image3.org",
   "generatedAt": "2026-06-07T10:19:27.739Z",
   "license": "CC BY 4.0",
   "total": 114,
@@ -15,7 +15,7 @@
       "title": "女装店对镜自拍",
       "scenario": "女装店上新、直播预热视频、小红书穿搭图。",
       "prompt": "生成一张 9:16 竖版女装店对镜自拍图，年轻模特穿着[服装款式]，服装颜色为[颜色]，面料为[面料]，清晰展示领口、袖型、腰线和下摆。场景是明亮干净的女装店，背景有衣架、落地镜、暖光灯带和同款穿搭模特。模特一手举手机挡脸，一手自然插兜，姿态松弛。真实手机视频截图质感，轻微动态模糊，服装细节清楚，不要随机品牌 logo、乱码文字或夸张滤镜。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-nvzhuang-tishici"
     },
     {
       "id": "ai-nvzhuang-tishici-template-02",
@@ -26,7 +26,7 @@
       "title": "韩系温柔穿搭",
       "scenario": "小红书图文、女装店日常上新、氛围感主图。",
       "prompt": "生成一张 9:16 韩系温柔女装穿搭图，模特穿着[上衣]搭配[下装]，整体颜色为低饱和[色系]。场景是米白墙面和浅木色地面，午后侧逆光，发丝有柔和金边，画面暖调干净。模特姿势自然，妆容清透，重点展示服装版型、面料纹理和搭配层次。不要过度磨皮，不要让身体比例失真，不要添加无关道具。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-nvzhuang-tishici"
     },
     {
       "id": "ai-nvzhuang-tishici-template-03",
@@ -37,7 +37,7 @@
       "title": "连衣裙电商主图",
       "scenario": "淘宝、天猫、拼多多、独立站商品列表图。",
       "prompt": "生成一张 4:5 女装电商主图，主体是一件[颜色][面料]连衣裙，由模特上身展示。模特正面或微侧身站立，裙长、腰线、领口、袖口和裙摆完整可见。背景为浅色棚拍环境，柔和布光，自然接触阴影，服装占画面中心。保持服装形状和细节准确，不要添加多余文字、假 logo、水印、手部遮挡或复杂背景。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-nvzhuang-tishici"
     },
     {
       "id": "ai-nvzhuang-tishici-template-04",
@@ -48,7 +48,7 @@
       "title": "通勤女装大片",
       "scenario": "西装、衬衫、半裙、通勤系列视觉。",
       "prompt": "生成一张 3:4 通勤女装商业摄影图，模特穿着[单品组合]，风格利落、干净、有质感。场景为现代办公室或城市街角，背景简洁，光线为柔和自然光。突出肩线、裤线、腰身比例和面料垂坠感。整体像品牌 lookbook，不要过度性感化，不要夸张姿势，不要随机办公文字或品牌标识。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-nvzhuang-tishici"
     },
     {
       "id": "ai-nvzhuang-tishici-template-05",
@@ -59,7 +59,7 @@
       "title": "夏日海边女装",
       "scenario": "度假裙、吊带、衬衫、防晒衫系列。",
       "prompt": "生成一张 9:16 夏日海边女装氛围图，模特穿着[服装款式]，场景是海边草坪、棕榈树和远处海面。阳光明亮但不刺眼，色温约 5500K，画面清新通透。模特轻扶草帽或自然走动，裙摆和发丝有微风感，服装材质、花纹和层次清楚。不要让背景抢主体，不要生成额外人物或乱码文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-nvzhuang-tishici"
     },
     {
       "id": "ai-nvzhuang-tishici-template-06",
@@ -70,7 +70,7 @@
       "title": "复古胶片女装",
       "scenario": "针织衫、西裤、风衣、复古穿搭内容。",
       "prompt": "生成一张复古胶片风女装照片，画幅 3:4，模特穿着[复古单品]搭配[下装]，场景为暖调室内或老街街角。画面有轻微胶片颗粒、柔和暖色和自然阴影。重点展示服装廓形、材质纹理、配饰和整体搭配感。不要让颜色脏乱，不要过度颗粒，不要添加随机英文海报文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-nvzhuang-tishici"
     },
     {
       "id": "ai-nvzhuang-tishici-template-07",
@@ -81,7 +81,7 @@
       "title": "国风新中式女装",
       "scenario": "旗袍、马面裙、新中式衬衫、国风系列。",
       "prompt": "生成一张新中式女装视觉图，模特穿着[服装款式]，服装包含[传统元素]，颜色为[主色]。场景为石库门、园林、茶室或中式窗棂背景，光线柔和，氛围雅致。重点展示盘扣、刺绣、面料光泽、裙摆层次和整体气质。画面高级克制，不要堆砌过多中国风符号，不要出现现代广告乱码。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-nvzhuang-tishici"
     },
     {
       "id": "ai-nvzhuang-tishici-template-08",
@@ -92,7 +92,7 @@
       "title": "女装细节特写",
       "scenario": "详情页面料、领口、袖口、纽扣、刺绣展示。",
       "prompt": "生成一张女装细节特写图，主体是[服装细节]，突出[面料/纹理/工艺]。使用微距镜头、浅景深、柔和侧光和干净背景，保持真实缝线、织纹、褶皱和边缘。画面适合商品详情页，不要出现手部遮挡、过度锐化、变形纹理或随机标签文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-nvzhuang-tishici"
     },
     {
       "id": "ai-nvzhuang-tishici-template-09",
@@ -103,7 +103,7 @@
       "title": "女装 Lookbook",
       "scenario": "品牌系列、上新合集、社媒轮播封面。",
       "prompt": "生成一张女装 lookbook 视觉，展示 3 套[风格]穿搭，分别包含[单品 A]、[单品 B]、[单品 C]。三位模特或同一模特三连拍并排展示，背景统一干净，光线一致，服装颜色和款式区分清楚。整体像品牌目录页，留出标题空间，不要让人物重叠，不要添加不可读小字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-nvzhuang-tishici"
     },
     {
       "id": "ai-nvzhuang-tishici-template-10",
@@ -114,7 +114,7 @@
       "title": "女装换款参考图编辑",
       "scenario": "上传人物参考图后，更换服装款式或颜色。",
       "prompt": "基于上传参考图生成新图，保持人物脸型、发型、肤色、姿势和背景光线基本不变，只把服装替换为[新服装款式]，颜色为[颜色]，材质为[面料]。新服装需要贴合身体姿态，保留自然褶皱和真实穿着效果。不要改变人物身份，不要改变脸部，不要添加随机品牌 logo、水印或多余配饰。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-nvzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-nvzhuang-tishici"
     },
     {
       "id": "ai-womens-fashion-001",
@@ -135,7 +135,7 @@
         "韩系温柔",
         "韩系"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-001",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-001",
       "media": [
         {
           "type": "image",
@@ -164,7 +164,7 @@
         "韩系",
         "连衣裙"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-002",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-002",
       "media": [
         {
           "type": "image",
@@ -192,7 +192,7 @@
         "秋日温柔",
         "模特"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-003",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-003",
       "media": [
         {
           "type": "image",
@@ -220,7 +220,7 @@
         "复古胶片风",
         "自拍"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-004",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-004",
       "media": [
         {
           "type": "image",
@@ -248,7 +248,7 @@
         "居家自拍大片",
         "自拍"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-005",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-005",
       "media": [
         {
           "type": "image",
@@ -278,7 +278,7 @@
         "连衣裙",
         "模特"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-006",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-006",
       "media": [
         {
           "type": "image",
@@ -305,7 +305,7 @@
         "电商主图",
         "韩系温柔"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-007",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-007",
       "media": [
         {
           "type": "image",
@@ -332,7 +332,7 @@
         "电商主图",
         "画廊时尚大片"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-008",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-008",
       "media": [
         {
           "type": "image",
@@ -360,7 +360,7 @@
         "韩系街拍风",
         "韩系"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-009",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-009",
       "media": [
         {
           "type": "image",
@@ -387,7 +387,7 @@
         "电商主图",
         "都市夜景时尚大片"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-010",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-010",
       "media": [
         {
           "type": "image",
@@ -415,7 +415,7 @@
         "法式优雅钢琴写真",
         "连衣裙"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-011",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-011",
       "media": [
         {
           "type": "image",
@@ -443,7 +443,7 @@
         "韩系街拍风",
         "韩系"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-012",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-012",
       "media": [
         {
           "type": "image",
@@ -470,7 +470,7 @@
         "电商主图",
         "夏日清新写真"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-013",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-013",
       "media": [
         {
           "type": "image",
@@ -497,7 +497,7 @@
         "电商主图",
         "通勤干练"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-014",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-014",
       "media": [
         {
           "type": "image",
@@ -524,7 +524,7 @@
         "电商主图",
         "甜美温柔"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-015",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-015",
       "media": [
         {
           "type": "image",
@@ -551,7 +551,7 @@
         "电商主图",
         "韩系温柔"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-016",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-016",
       "media": [
         {
           "type": "image",
@@ -578,7 +578,7 @@
         "电商主图",
         "甜酷辣妹"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-017",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-017",
       "media": [
         {
           "type": "image",
@@ -606,7 +606,7 @@
         "清冷高级",
         "自拍"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-018",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-018",
       "media": [
         {
           "type": "image",
@@ -633,7 +633,7 @@
         "电商主图",
         "现代居家"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-019",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-019",
       "media": [
         {
           "type": "image",
@@ -661,7 +661,7 @@
         "春日绿意街道",
         "模特"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-020",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-020",
       "media": [
         {
           "type": "image",
@@ -688,7 +688,7 @@
         "电商主图",
         "热带露台度假"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-021",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-021",
       "media": [
         {
           "type": "image",
@@ -715,7 +715,7 @@
         "电商主图",
         "法式慵懒"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-022",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-022",
       "media": [
         {
           "type": "image",
@@ -743,7 +743,7 @@
         "甜酷辣妹",
         "模特"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-023",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-023",
       "media": [
         {
           "type": "image",
@@ -771,7 +771,7 @@
         "法式慵懒",
         "模特"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-024",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-024",
       "media": [
         {
           "type": "image",
@@ -798,7 +798,7 @@
         "电商主图",
         "公园氛围感"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-025",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-025",
       "media": [
         {
           "type": "image",
@@ -825,7 +825,7 @@
         "电商主图",
         "海边度假"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-026",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-026",
       "media": [
         {
           "type": "image",
@@ -853,7 +853,7 @@
         "室内日常穿搭",
         "韩系"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-027",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-027",
       "media": [
         {
           "type": "image",
@@ -880,7 +880,7 @@
         "电商主图",
         "湖景度假少女"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-028",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-028",
       "media": [
         {
           "type": "image",
@@ -908,7 +908,7 @@
         "法式慵懒",
         "自拍"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-029",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-029",
       "media": [
         {
           "type": "image",
@@ -936,7 +936,7 @@
         "法式慵懒",
         "自拍"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-030",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-womens-fashion-030",
       "media": [
         {
           "type": "image",
@@ -954,7 +954,7 @@
       "title": "童装店对镜自拍",
       "scenario": "童装上新、短视频封面、店铺氛围图。",
       "prompt": "生成一张 9:16 童装店对镜自拍风格图片，儿童模特穿着[童装款式]，颜色为[颜色]，服装完整可见。场景是明亮干净的童装店，有落地镜、儿童衣架、同款服装陈列和暖光灯。动作自然安全，表情轻松，重点展示衣服版型、面料和搭配。不要成人化姿势，不要夸张妆容，不要随机品牌 logo、乱码文字或多余人物。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-tongzhuang-tishici"
     },
     {
       "id": "ai-tongzhuang-tishici-template-02",
@@ -965,7 +965,7 @@
       "title": "女童甜美穿搭",
       "scenario": "裙装、开衫、套装、小红书亲子笔记。",
       "prompt": "生成一张 3:4 女童甜美穿搭图，儿童穿着[服装款式]，搭配[鞋子/配饰]，场景为浅色室内或公园草地。光线柔和，表情自然，动作是站立、走路或轻扶帽檐。服装细节清楚，年龄感自然健康。不要成人化审美，不要浓妆，不要高跟鞋，不要夸张摆拍。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-tongzhuang-tishici"
     },
     {
       "id": "ai-tongzhuang-tishici-template-03",
@@ -976,7 +976,7 @@
       "title": "男童日常穿搭",
       "scenario": "卫衣、衬衫、牛仔裤、运动套装。",
       "prompt": "生成一张男童日常穿搭图片，画幅 4:5，儿童穿着[上衣]搭配[下装]，场景为校园门口、街角或儿童房。动作自然，比如背书包、走路或坐在台阶上。光线明亮，画面真实清爽，突出面料、颜色、裤型和鞋子搭配。不要让身体比例失真，不要添加奇怪玩具或无关文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-tongzhuang-tishici"
     },
     {
       "id": "ai-tongzhuang-tishici-template-04",
@@ -987,7 +987,7 @@
       "title": "童装电商白底图",
       "scenario": "商品列表、SKU 展示、独立站产品页。",
       "prompt": "生成一张 1:1 童装电商白底图，主体是一套[童装款式]，可以平铺展示或由儿童模特自然站立展示。背景纯白，柔和棚拍光，服装完整可见，边缘清楚，颜色真实。不要添加道具、随机文字、水印、成人配饰或夸张广告元素。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-tongzhuang-tishici"
     },
     {
       "id": "ai-tongzhuang-tishici-template-05",
@@ -998,7 +998,7 @@
       "title": "亲子穿搭",
       "scenario": "亲子装、家庭节日照、品牌系列图。",
       "prompt": "生成一张亲子穿搭图，成人和儿童穿着同色系[亲子装款式]，场景为明亮客厅、公园或海边步道。动作自然互动，比如牵手走路、并肩站立或一起看向镜头。服装风格统一，画面温暖真实。不要改变年龄感，不要让人物五官变形，不要添加无关路人或品牌文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-tongzhuang-tishici"
     },
     {
       "id": "ai-tongzhuang-tishici-template-06",
@@ -1009,7 +1009,7 @@
       "title": "童装新年国风",
       "scenario": "新年款、拜年服、国风童装上新。",
       "prompt": "生成一张童装新年国风图，儿童穿着[国风童装款式]，颜色为[红色/米色/金色等]，包含盘扣、刺绣或立领细节。场景为温暖年味室内、灯笼、窗花和简洁年货装饰。表情自然可爱，画面喜庆但不杂乱。不要堆满装饰，不要添加随机祝福文字或假品牌。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-tongzhuang-tishici"
     },
     {
       "id": "ai-tongzhuang-tishici-template-07",
@@ -1020,7 +1020,7 @@
       "title": "童装户外运动",
       "scenario": "运动套装、防晒衣、冲锋衣、童鞋。",
       "prompt": "生成一张儿童户外运动穿搭图，儿童穿着[运动童装款式]，场景为公园跑道、露营地或城市广场。动作安全自然，比如慢跑、跳跃落地前一刻或整理背包。光线清爽，服装面料、拉链、口袋和鞋子细节清楚。不要危险动作，不要极限运动，不要模糊服装主体。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-tongzhuang-tishici"
     },
     {
       "id": "ai-tongzhuang-tishici-template-08",
@@ -1031,7 +1031,7 @@
       "title": "童装面料细节",
       "scenario": "详情页展示棉、针织、牛仔、羽绒等材质。",
       "prompt": "生成一张童装面料细节图，主体是[面料/工艺]，展示缝线、织纹、纽扣、拉链或刺绣。使用柔和微距光线和干净背景，质感真实，适合商品详情页。不要加入儿童身体特写，不要出现品牌标签乱码，不要过度锐化。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-tongzhuang-tishici"
     },
     {
       "id": "ai-tongzhuang-tishici-template-09",
@@ -1042,7 +1042,7 @@
       "title": "儿童摄影棚拍",
       "scenario": "童装品牌 lookbook、系列主视觉。",
       "prompt": "生成一张儿童童装棚拍图，儿童模特穿着[服装系列]，站在浅色无缝背景前，柔和棚拍光，自然接触阴影。动作轻松，服装完整展示，整体像品牌 lookbook。保持儿童真实年龄感和健康气质，不要成人化造型，不要浓妆，不要复杂道具。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-tongzhuang-tishici"
     },
     {
       "id": "ai-tongzhuang-tishici-template-10",
@@ -1053,7 +1053,7 @@
       "title": "童装换款参考图编辑",
       "scenario": "上传儿童参考图后替换服装款式。",
       "prompt": "基于上传参考图生成新图，保持儿童身份、脸型、发型、年龄感、姿势和背景光线基本不变，只把服装替换为[新童装款式]，颜色为[颜色]，材质为[面料]。服装要贴合原姿势并保持自然褶皱。不要改变儿童五官，不要成人化，不要添加随机 logo、水印或多余配饰。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ai-tongzhuang-tishici"
+      "sourceUrl": "https://image3.org/zh/prompts/ai-tongzhuang-tishici"
     },
     {
       "id": "ai-kids-fashion-001",
@@ -1073,7 +1073,7 @@
         "男童穿搭",
         "男童"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-001",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-001",
       "media": [
         {
           "type": "image",
@@ -1101,7 +1101,7 @@
         "男童",
         "对镜自拍"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-002",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-002",
       "media": [
         {
           "type": "image",
@@ -1128,7 +1128,7 @@
         "女童穿搭",
         "女童"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-003",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-003",
       "media": [
         {
           "type": "image",
@@ -1156,7 +1156,7 @@
         "女童",
         "柏油路"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-004",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-004",
       "media": [
         {
           "type": "image",
@@ -1184,7 +1184,7 @@
         "女童",
         "柏油路"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-005",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-005",
       "media": [
         {
           "type": "image",
@@ -1212,7 +1212,7 @@
         "女童",
         "柏油路"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-006",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-006",
       "media": [
         {
           "type": "image",
@@ -1240,7 +1240,7 @@
         "女童",
         "柏油路"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-007",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-007",
       "media": [
         {
           "type": "image",
@@ -1268,7 +1268,7 @@
         "女童",
         "柏油路"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-008",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-008",
       "media": [
         {
           "type": "image",
@@ -1297,7 +1297,7 @@
         "幼儿",
         "柏油路"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-009",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-009",
       "media": [
         {
           "type": "image",
@@ -1325,7 +1325,7 @@
         "男童",
         "对镜自拍"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-010",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-010",
       "media": [
         {
           "type": "image",
@@ -1354,7 +1354,7 @@
         "对镜自拍",
         "礼盒展示"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-011",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-011",
       "media": [
         {
           "type": "image",
@@ -1382,7 +1382,7 @@
         "女童",
         "柏油路"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-012",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-012",
       "media": [
         {
           "type": "image",
@@ -1409,7 +1409,7 @@
         "男童穿搭",
         "男童"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-013",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-013",
       "media": [
         {
           "type": "image",
@@ -1438,7 +1438,7 @@
         "柏油路",
         "童装店"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-014",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-014",
       "media": [
         {
           "type": "image",
@@ -1465,7 +1465,7 @@
         "男童穿搭",
         "男童"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-016",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-016",
       "media": [
         {
           "type": "image",
@@ -1493,7 +1493,7 @@
         "女童",
         "柏油路"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-017",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-017",
       "media": [
         {
           "type": "image",
@@ -1520,7 +1520,7 @@
         "女童穿搭",
         "女童"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-018",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-018",
       "media": [
         {
           "type": "image",
@@ -1549,7 +1549,7 @@
         "柏油路",
         "童装店"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-019",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-019",
       "media": [
         {
           "type": "image",
@@ -1578,7 +1578,7 @@
         "柏油路",
         "童装店"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-020",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-020",
       "media": [
         {
           "type": "image",
@@ -1605,7 +1605,7 @@
         "幼儿童装",
         "幼儿"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-021",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-021",
       "media": [
         {
           "type": "image",
@@ -1631,7 +1631,7 @@
         "电商主图",
         "幼儿童装"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-022",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-022",
       "media": [
         {
           "type": "image",
@@ -1659,7 +1659,7 @@
         "女童",
         "柏油路"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-023",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-023",
       "media": [
         {
           "type": "image",
@@ -1687,7 +1687,7 @@
         "女童",
         "礼盒展示"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-024",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-024",
       "media": [
         {
           "type": "image",
@@ -1715,7 +1715,7 @@
         "女童",
         "童装店"
       ],
-      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-025",
+      "sourceUrl": "https://image3.org/zh/prompts/gpt-image-2/ai-kids-fashion-025",
       "media": [
         {
           "type": "image",
@@ -1733,7 +1733,7 @@
       "title": "白底标准主图",
       "scenario": "商品列表页、搜索结果页、SKU 展示。",
       "prompt": "生成一张 1:1 电商白底主图，主体是[产品名称]，产品正面居中完整可见，保持真实形状、颜色、材质和包装比例。使用纯白背景、柔和棚拍光、自然接触阴影，边缘清晰。不要添加道具、手、假 logo、随机文字、水印或多余包装。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+      "sourceUrl": "https://image3.org/zh/prompts/ecommerce-main-image"
     },
     {
       "id": "ecommerce-main-image-template-02",
@@ -1744,7 +1744,7 @@
       "title": "场景化产品主图",
       "scenario": "提升点击率，用于首页推荐和广告素材。",
       "prompt": "生成一张 4:5 场景化电商主图，主体是[产品名称]，放在[使用场景]中，产品占画面 60%，右侧保留干净留白。光线自然、质感真实、背景简洁不抢主体。保持产品结构、颜色和标签区域不变，不要添加随机文字或无关道具。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+      "sourceUrl": "https://image3.org/zh/prompts/ecommerce-main-image"
     },
     {
       "id": "ecommerce-main-image-template-03",
@@ -1755,7 +1755,7 @@
       "title": "三卖点主图",
       "scenario": "需要在图上表达 2-3 个核心卖点。",
       "prompt": "生成一张 1:1 电商卖点主图，主体是[产品名称]，画面左侧展示产品，右侧放 3 个简短卖点图标区域。标题文字为“[主标题]”，卖点为“[卖点1]”“[卖点2]”“[卖点3]”。文字清晰可读，不要额外添加乱码、英文假字或水印。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+      "sourceUrl": "https://image3.org/zh/prompts/ecommerce-main-image"
     },
     {
       "id": "ecommerce-main-image-template-04",
@@ -1766,7 +1766,7 @@
       "title": "套装组合主图",
       "scenario": "多件套、礼盒、组合装商品。",
       "prompt": "生成一张电商套装组合主图，展示[产品A]、[产品B]、[产品C]和外包装盒，按前后层次自然摆放。背景为浅灰棚拍环境，整体干净高级，产品标签方向朝前。保持每个单品比例合理，不要让包装文字变形，不要增加不存在的配件。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+      "sourceUrl": "https://image3.org/zh/prompts/ecommerce-main-image"
     },
     {
       "id": "ecommerce-main-image-template-05",
@@ -1777,7 +1777,7 @@
       "title": "节日促销主图",
       "scenario": "大促、节日、限时优惠视觉。",
       "prompt": "生成一张 4:5 节日促销电商主图，主体是[产品名称]，背景加入克制的[节日元素]，顶部标题为“[活动标题]”，底部保留价格和按钮位置。画面有促销氛围但不杂乱，产品真实清晰，不要添加夸张爆炸贴纸、乱码或假品牌。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+      "sourceUrl": "https://image3.org/zh/prompts/ecommerce-main-image"
     },
     {
       "id": "ecommerce-main-image-template-06",
@@ -1788,7 +1788,7 @@
       "title": "材质特写主图",
       "scenario": "突出面料、金属、皮革、玻璃或食品质感。",
       "prompt": "生成一张产品材质特写主图，主体是[产品名称]，镜头靠近但保持完整识别，突出[材质细节]。使用微距棚拍光、浅景深、真实纹理和自然阴影。不要过度磨皮、不要让产品形状弯曲，不要添加随机文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+      "sourceUrl": "https://image3.org/zh/prompts/ecommerce-main-image"
     },
     {
       "id": "ecommerce-main-image-template-07",
@@ -1799,7 +1799,7 @@
       "title": "使用前后对比图",
       "scenario": "清洁、收纳、美妆、工具类商品。",
       "prompt": "生成一张左右对比电商主图，左侧是使用前的[问题场景]，右侧是使用[产品名称]后的整洁效果。中间用简洁分割线区分，产品在右侧清晰可见。标题为“[短标题]”。不要夸大效果，不要添加不可读小字或无关人物。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+      "sourceUrl": "https://image3.org/zh/prompts/ecommerce-main-image"
     },
     {
       "id": "ecommerce-main-image-template-08",
@@ -1810,7 +1810,7 @@
       "title": "独立站首屏产品图",
       "scenario": "Shopify、官网落地页首屏。",
       "prompt": "生成一张 16:9 独立站首屏产品视觉，主体是[产品名称]，位于画面右侧，左侧保留大面积文案留白。背景为[品牌色]渐变到浅色实景台面，光线柔和，产品边缘清楚。不要在图中生成长段文字，只保留干净视觉空间。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+      "sourceUrl": "https://image3.org/zh/prompts/ecommerce-main-image"
     },
     {
       "id": "ecommerce-main-image-template-09",
@@ -1821,7 +1821,7 @@
       "title": "详情页首屏图",
       "scenario": "商品详情页开头，展示产品和核心场景。",
       "prompt": "生成一张电商详情页首屏图，画幅 3:2，主体是[产品名称]，展示在[核心使用场景]中，旁边有 2 个简洁功能标注区域。整体真实、干净、有高级感。保持产品颜色和结构准确，不要添加随机商标、人物手部或复杂背景。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+      "sourceUrl": "https://image3.org/zh/prompts/ecommerce-main-image"
     },
     {
       "id": "ecommerce-main-image-template-10",
@@ -1832,7 +1832,7 @@
       "title": "广告投放主图",
       "scenario": "信息流广告、搜索广告、社媒投放。",
       "prompt": "生成一张适合广告投放的产品主图，主体是[产品名称]，构图强对比，背景简洁，顶部保留短标题“[广告语]”，下方保留按钮区域。产品占画面中心，质感真实，色彩清晰。不要出现虚假认证标识、乱码、水印或夸张承诺。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/ecommerce-main-image"
+      "sourceUrl": "https://image3.org/zh/prompts/ecommerce-main-image"
     },
     {
       "id": "product-photo-template-01",
@@ -1843,7 +1843,7 @@
       "title": "高级棚拍",
       "scenario": "官网、详情页、品牌视觉。",
       "prompt": "生成一张高级棚拍产品照片，主体是[产品名称]，放在[台面材质]上，背景为[背景颜色]。使用柔和主光、清晰边缘光和自然接触阴影，产品居中完整可见。保持真实形状和材质，不要添加随机文字、水印或手。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+      "sourceUrl": "https://image3.org/zh/prompts/product-photo"
     },
     {
       "id": "product-photo-template-02",
@@ -1854,7 +1854,7 @@
       "title": "生活方式产品图",
       "scenario": "独立站、社媒、广告图。",
       "prompt": "生成一张生活方式产品摄影图，主体是[产品名称]，出现在[使用场景]，周围有少量相关道具但不抢主体。光线自然，画面真实温暖，右侧保留文案留白。保持产品结构和颜色准确，不要添加无关人物。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+      "sourceUrl": "https://image3.org/zh/prompts/product-photo"
     },
     {
       "id": "product-photo-template-03",
@@ -1865,7 +1865,7 @@
       "title": "悬浮产品图",
       "scenario": "科技、美妆、饮品广告。",
       "prompt": "生成一张悬浮产品广告摄影图，主体是[产品名称]，悬浮在简洁背景中，周围有[元素]点缀。使用高质感商业灯光和清晰阴影，产品标签朝前。不要让产品弯曲，不要添加随机 logo 或乱码文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+      "sourceUrl": "https://image3.org/zh/prompts/product-photo"
     },
     {
       "id": "product-photo-template-04",
@@ -1876,7 +1876,7 @@
       "title": "材质微距",
       "scenario": "强调面料、纹理、金属、食品质感。",
       "prompt": "生成一张产品材质微距照片，主体是[产品名称]的[材质部位]，镜头近距离，浅景深，纹理真实清晰。背景简洁，光线柔和，适合详情页局部展示。不要过度锐化，不要改变材质颜色。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+      "sourceUrl": "https://image3.org/zh/prompts/product-photo"
     },
     {
       "id": "product-photo-template-05",
@@ -1887,7 +1887,7 @@
       "title": "透明材质摄影",
       "scenario": "玻璃杯、香水、护肤瓶、亚克力。",
       "prompt": "生成一张透明材质产品摄影图，主体是[产品名称]，放在浅色台面上，使用背光和柔和反射突出透明质感。背景干净，边缘清晰，阴影自然。不要让瓶身变形，不要添加错误标签文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+      "sourceUrl": "https://image3.org/zh/prompts/product-photo"
     },
     {
       "id": "product-photo-template-06",
@@ -1898,7 +1898,7 @@
       "title": "食品产品摄影",
       "scenario": "餐饮、电商食品、菜单图。",
       "prompt": "生成一张食品产品摄影图，主体是[食品名称]，角度为 45 度或俯拍，食物新鲜真实，有自然油光和质感。背景为干净餐桌，少量道具。不要过度饱和，不要添加不可食用装饰或随机文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+      "sourceUrl": "https://image3.org/zh/prompts/product-photo"
     },
     {
       "id": "product-photo-template-07",
@@ -1909,7 +1909,7 @@
       "title": "包装与产品同框",
       "scenario": "详情页、礼盒、套装展示。",
       "prompt": "生成一张产品与包装同框摄影图，展示[产品名称]和外包装盒，产品在前、包装在后，层次清楚。背景为浅灰棚拍，光线柔和，标签朝前可读。不要添加不存在的配件、假认证或二维码。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+      "sourceUrl": "https://image3.org/zh/prompts/product-photo"
     },
     {
       "id": "product-photo-template-08",
@@ -1920,7 +1920,7 @@
       "title": "户外场景产品图",
       "scenario": "运动、露营、户外用品。",
       "prompt": "生成一张户外场景产品摄影图，主体是[产品名称]，放在[户外场景]中，清晨或傍晚自然光，背景有空间层次。产品真实清楚，占画面中心。不要让环境遮挡产品，不要添加多余人物。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+      "sourceUrl": "https://image3.org/zh/prompts/product-photo"
     },
     {
       "id": "product-photo-template-09",
@@ -1931,7 +1931,7 @@
       "title": "社媒方形产品图",
       "scenario": "Instagram、小红书、朋友圈。",
       "prompt": "生成一张 1:1 社媒产品摄影图，主体是[产品名称]，背景为[颜色/材质]，整体干净有记忆点。产品占画面 65%，顶部留少量空间。不要在图中添加文字，避免水印、随机贴纸和复杂道具。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+      "sourceUrl": "https://image3.org/zh/prompts/product-photo"
     },
     {
       "id": "product-photo-template-10",
@@ -1942,7 +1942,7 @@
       "title": "官网首屏产品图",
       "scenario": "官网 Hero、独立站、众筹页面。",
       "prompt": "生成一张 16:9 官网首屏产品摄影图，主体是[产品名称]，位于画面右侧，左侧大面积留白。使用高级商业光线、真实反射和浅色背景，产品细节清楚。不要生成标题文字或按钮，让画面适合后期排版。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/product-photo"
+      "sourceUrl": "https://image3.org/zh/prompts/product-photo"
     },
     {
       "id": "xiaohongshu-cover-template-01",
@@ -1953,7 +1953,7 @@
       "title": "种草笔记封面",
       "scenario": "产品推荐、好物分享、开箱内容。",
       "prompt": "生成一张 3:4 小红书种草封面，主体是[产品名称]，放在温暖自然的生活方式场景中。上方留出标题区域，标题文字为“[短标题]”，字体清晰、醒目但不过度夸张。画面明亮、真实、有分享感，不要添加乱码、水印或多余贴纸。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+      "sourceUrl": "https://image3.org/zh/prompts/xiaohongshu-cover"
     },
     {
       "id": "xiaohongshu-cover-template-02",
@@ -1964,7 +1964,7 @@
       "title": "教程类封面",
       "scenario": "步骤教程、经验分享、干货内容。",
       "prompt": "生成一张 3:4 小红书教程封面，主题是[教程主题]，画面包含简洁桌面、工具和结果预览。中间标题为“[教程标题]”，下方有 3 个小标签位置。整体干净、有秩序，文字不要超过 18 个中文字符，不要出现随机英文。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+      "sourceUrl": "https://image3.org/zh/prompts/xiaohongshu-cover"
     },
     {
       "id": "xiaohongshu-cover-template-03",
@@ -1975,7 +1975,7 @@
       "title": "前后对比封面",
       "scenario": "改造、修图、收纳、护肤、穿搭前后对比。",
       "prompt": "生成一张小红书前后对比封面，左右分栏展示[对比对象]的变化，左侧标注“Before”，右侧标注“After”。顶部中文标题为“[标题]”。画面明亮真实，差异清楚但不要夸张，不要添加多余人物或不可读小字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+      "sourceUrl": "https://image3.org/zh/prompts/xiaohongshu-cover"
     },
     {
       "id": "xiaohongshu-cover-template-04",
@@ -1986,7 +1986,7 @@
       "title": "合集清单封面",
       "scenario": "好物合集、工具清单、模板合集。",
       "prompt": "生成一张 3:4 小红书合集封面，展示 5 个[合集对象]，按网格或桌面平铺摆放。标题为“[合集标题]”，副标题为“[短副标题]”。风格清爽，背景浅色，物品之间留白充足，不要让文字压住主体。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+      "sourceUrl": "https://image3.org/zh/prompts/xiaohongshu-cover"
     },
     {
       "id": "xiaohongshu-cover-template-05",
@@ -1997,7 +1997,7 @@
       "title": "探店封面",
       "scenario": "餐厅、咖啡店、展览、城市打卡。",
       "prompt": "生成一张小红书探店封面，场景是[地点类型]，有自然光、真实空间层次和可打卡氛围。画面下方留出标题“[店名或主题]”。不要生成虚假地址、电话号码、二维码或具体商标，整体像真实手机拍摄但更精致。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+      "sourceUrl": "https://image3.org/zh/prompts/xiaohongshu-cover"
     },
     {
       "id": "xiaohongshu-cover-template-06",
@@ -2008,7 +2008,7 @@
       "title": "穿搭封面",
       "scenario": "OOTD、风格搭配、单品推荐。",
       "prompt": "生成一张 3:4 穿搭小红书封面，主体是[穿搭风格]人物全身照，背景为简洁街景或室内镜前。标题区域位于上方，文字为“[穿搭标题]”。人物比例自然、衣服细节清楚，不要多手指、怪异姿势或随机品牌 logo。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+      "sourceUrl": "https://image3.org/zh/prompts/xiaohongshu-cover"
     },
     {
       "id": "xiaohongshu-cover-template-07",
@@ -2019,7 +2019,7 @@
       "title": "知识卡片封面",
       "scenario": "学习笔记、职场方法、AI 教程。",
       "prompt": "生成一张知识类小红书封面，主题是[知识主题]，采用白底卡片式排版，包含大标题“[标题]”和 3 个简短要点。视觉简洁、字体清晰、层级明确。不要添加长段文字、二维码、水印或复杂背景。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+      "sourceUrl": "https://image3.org/zh/prompts/xiaohongshu-cover"
     },
     {
       "id": "xiaohongshu-cover-template-08",
@@ -2030,7 +2030,7 @@
       "title": "美食封面",
       "scenario": "菜谱、餐厅推荐、零食测评。",
       "prompt": "生成一张 3:4 小红书美食封面，主体是[美食名称]，俯拍或 45 度角，光线温暖，食物质感真实诱人。标题为“[短标题]”，放在不遮挡食物的位置。不要让颜色过度饱和，不要添加无关餐具和乱码文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+      "sourceUrl": "https://image3.org/zh/prompts/xiaohongshu-cover"
     },
     {
       "id": "xiaohongshu-cover-template-09",
@@ -2041,7 +2041,7 @@
       "title": "家居改造封面",
       "scenario": "房间布置、收纳、软装分享。",
       "prompt": "生成一张小红书家居改造封面，展示[空间类型]的温馨整洁效果，画面有自然光、浅色墙面和清晰动线。标题为“[改造标题]”。整体真实可参考，不要过度豪宅化，不要添加随机装饰文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+      "sourceUrl": "https://image3.org/zh/prompts/xiaohongshu-cover"
     },
     {
       "id": "xiaohongshu-cover-template-10",
@@ -2052,7 +2052,7 @@
       "title": "AI 工具推荐封面",
       "scenario": "工具测评、AI 教程、效率技巧。",
       "prompt": "生成一张小红书 AI 工具推荐封面，画面包含电脑屏幕、提示词输入框和生成图片预览，标题为“[标题]”。风格现代、清晰、有科技感但不过度炫光。不要使用官方品牌 logo，不要生成不可读界面小字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/xiaohongshu-cover"
+      "sourceUrl": "https://image3.org/zh/prompts/xiaohongshu-cover"
     },
     {
       "id": "poster-design-template-01",
@@ -2063,7 +2063,7 @@
       "title": "产品广告海报",
       "scenario": "新品发布、品牌广告、投放素材。",
       "prompt": "生成一张 4:5 产品广告海报，主体是[产品名称]，位于画面中心，背景为[场景/颜色]。顶部标题为“[标题]”，下方副标题为“[副标题]”。产品质感真实，文字清晰，留白充足。不要添加假 logo、水印、乱码或多余活动信息。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+      "sourceUrl": "https://image3.org/zh/prompts/poster-design"
     },
     {
       "id": "poster-design-template-02",
@@ -2074,7 +2074,7 @@
       "title": "限时促销海报",
       "scenario": "大促、优惠券、会员日。",
       "prompt": "生成一张电商促销海报，主题是[活动名称]，主体产品为[产品名称]。标题文字为“[促销标题]”，画面下方保留价格和按钮区域但不要生成具体价格。风格热烈但高级，避免杂乱贴纸、夸张爆炸框和随机文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+      "sourceUrl": "https://image3.org/zh/prompts/poster-design"
     },
     {
       "id": "poster-design-template-03",
@@ -2085,7 +2085,7 @@
       "title": "课程招生海报",
       "scenario": "成人培训、线上课、公开课。",
       "prompt": "生成一张课程招生海报，主题是[课程名称]，画面包含讲师或学习场景、清晰标题“[标题]”和 3 个卖点标签。整体专业可信，适合朋友圈和公众号。不要添加虚假证书、二维码、电话号码或不可读小字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+      "sourceUrl": "https://image3.org/zh/prompts/poster-design"
     },
     {
       "id": "poster-design-template-04",
@@ -2096,7 +2096,7 @@
       "title": "线下活动海报",
       "scenario": "沙龙、展览、市集、发布会。",
       "prompt": "生成一张线下活动海报，主题为[活动主题]，画幅 3:4，主视觉为[主视觉元素]。标题为“[活动名]”，底部保留时间地点文字区域但不生成具体小字。风格现代、有空间感，不要添加随机地址或假赞助商。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+      "sourceUrl": "https://image3.org/zh/prompts/poster-design"
     },
     {
       "id": "poster-design-template-05",
@@ -2107,7 +2107,7 @@
       "title": "品牌形象海报",
       "scenario": "品牌升级、品牌理念、社媒传播。",
       "prompt": "生成一张品牌形象海报，围绕[品牌关键词]，主色为[品牌色]，画面包含抽象材质、产品或人物剪影。标题为“[品牌主张]”。整体高级、克制、可用于官网和社媒，不要添加大量小字或无关图标。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+      "sourceUrl": "https://image3.org/zh/prompts/poster-design"
     },
     {
       "id": "poster-design-template-06",
@@ -2118,7 +2118,7 @@
       "title": "节日海报",
       "scenario": "春节、中秋、双旦、母亲节等节点。",
       "prompt": "生成一张节日营销海报，主题是[节日名称]，主体为[产品/品牌元素]，加入克制的节日符号和温暖光线。标题为“[节日祝福或活动标题]”。不要过度堆砌装饰，不要添加虚假折扣或随机文字。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+      "sourceUrl": "https://image3.org/zh/prompts/poster-design"
     },
     {
       "id": "poster-design-template-07",
@@ -2129,7 +2129,7 @@
       "title": "招聘海报",
       "scenario": "团队招聘、校园招聘、岗位推广。",
       "prompt": "生成一张现代招聘海报，主题为[岗位/团队]，画面包含工作空间或人物剪影，标题为“[招聘标题]”。下方留出岗位信息区域，不要生成具体薪资和联系方式。风格专业、清晰、可信，不要使用夸张表情和水印。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+      "sourceUrl": "https://image3.org/zh/prompts/poster-design"
     },
     {
       "id": "poster-design-template-08",
@@ -2140,7 +2140,7 @@
       "title": "公益倡议海报",
       "scenario": "环保、健康、安全、社区倡议。",
       "prompt": "生成一张公益倡议海报，主题是[倡议主题]，主视觉为[象征元素]，标题为“[倡议标题]”。画面情绪真诚、克制，文字少而清楚，适合公众号和线下张贴。不要使用恐吓画面、虚假机构 logo 或乱码。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+      "sourceUrl": "https://image3.org/zh/prompts/poster-design"
     },
     {
       "id": "poster-design-template-09",
@@ -2151,7 +2151,7 @@
       "title": "音乐演出海报",
       "scenario": "演出、派对、Livehouse、播客活动。",
       "prompt": "生成一张音乐演出海报，主题为[演出类型]，主视觉为舞台灯光和人物剪影，标题为“[演出名]”。使用强对比色和动感构图，底部留出阵容和时间区域。不要生成真实艺人姓名、二维码或假票务信息。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+      "sourceUrl": "https://image3.org/zh/prompts/poster-design"
     },
     {
       "id": "poster-design-template-10",
@@ -2162,7 +2162,7 @@
       "title": "信息流广告海报",
       "scenario": "社媒广告、短视频封面、投流创意。",
       "prompt": "生成一张信息流广告海报，主体是[产品/服务]，3 秒内能看懂卖点。大标题为“[广告语]”，主体占画面 55%，背景干净有对比。不要添加长段文案、虚假承诺、随机按钮文字或水印。",
-      "sourceUrl": "https://gptimg2.art/zh/prompts/poster-design"
+      "sourceUrl": "https://image3.org/zh/prompts/poster-design"
     }
   ]
 }
